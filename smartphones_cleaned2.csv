@@ -1,0 +1,931 @@
+"id","name","brand","price","score","os","sim","has_5g","has_nfc","has_ir_blaster","processor_brand","num_core","processor_speed","ram_capacity","internal_memory","battery_capacity","has_fast_charging","fast_charging","screen_size","refresh_rate","resolution","rear_num","primary_camera_rear","primary_camera_front","extended_memory_available","extended_memory"
+2,"OnePlus Nord CE 3 Lite 5G","OnePlus",19999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,128,5000,1,67,6.72,120,"1080 x 2400",3,108,16,1,1024
+3,"Motorola Edge 40 5G","Motorola",29999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.6",8,256,4400,1,68,6.55,144,"1080 x 2400",2,50,32,0,0
+4,"OnePlus 11R 5G","OnePlus",38989,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",8,128,5000,1,100,6.74,120,"1240 x 2772",3,50,16,0,0
+5,"OnePlus Nord CE 3 5G","OnePlus",26999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.7",8,128,5000,1,80,6.7,120,"1080 x 2412",3,50,16,1,1024
+6,"Xiaomi Redmi 12","Xiaomi",10999,76,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC, IR Blaster",0,1,1,"Helio","8","2",4,128,5000,1,18,6.79,90,"1080 x 2460",3,50,8,1,0
+7,"Realme C53","Realme",9799,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","8","1.82",4,128,5000,1,18,6.74,90,"1080 x 2400",2,108,8,1,2048
+8,"Samsung Galaxy F34 5G","Samsung",19999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.4",6,128,6000,1,25,6.46,120,"1080 x 2400",3,50,16,1,0
+9,"Vivo T2x 5G","Vivo",12999,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",4,128,5000,1,18,6.58,0,"1080 x 2408",2,50,8,1,1024
+10,"Motorola Moto G14","Motorola",10990,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Tiger","8","2",4,128,5000,1,20,6.5,90,"1080 x 1920",2,50,8,1,1024
+11,"Apple iPhone 15 Pro","Apple",130990,88,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","3.46",8,128,4852,1,0,6.06,120,"1170 x 2532",3,50,12,0,0
+12,"OPPO K11 5G","OPPO",21990,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.7",8,256,5800,1,100,6.7,120,"1080 x 2412",3,50,16,0,0
+13,"Infinix Note 30 5G","Infinix",14999,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.4",4,128,5000,1,45,6.78,120,"1080 x 2460",3,108,16,1,2048
+14,"OPPO Reno 10","OPPO",32999,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","2.6",8,256,5000,1,67,6.7,120,"1080 x 2412",3,64,32,1,0
+15,"Realme C55 (8GB RAM + 128GB)","Realme",13799,79,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",8,128,5000,1,33,6.72,90,"1080 x 2400",2,64,8,1,1024
+16,"Vivo T2x 5G (6GB RAM + 128GB)","Vivo",13999,78,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",6,128,5000,1,18,6.58,0,"1080 x 2408",2,50,8,1,1024
+17,"Infinix GT 10 Pro","Infinix",26999,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","3",8,256,7000,1,260,6.67,120,"1080 x 2460",3,108,32,1,1024
+19,"Realme 11 Pro","Realme",23999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.6",8,128,5000,1,67,6.7,120,"1080 x 2412",2,100,16,0,0
+20,"Realme Narzo 60 5G","Realme",17999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",8,128,5000,1,33,6.43,90,"1080 x 2400",2,64,16,1,1024
+21,"OnePlus 11 5G","OnePlus",54900,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",8,128,5000,1,100,6.7,120,"1440 x 3216",3,50,16,0,0
+22,"Meizu 20 Pro","Meizu",47990,91,"Flyme","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",12,128,5000,1,80,6.81,120,"1440 x 3200",3,50,32,0,0
+23,"Apple iPhone 14 Pro Max","Apple",127999,85,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","3.46",6,128,4323,1,0,6.7,120,"1290 x 2796",3,48,12,0,0
+24,"Infinix Note 30 5G (8GB RAM + 256GB)","Infinix",15999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.4",8,256,5000,1,45,6.78,120,"1080 x 2460",3,108,16,1,2048
+25,"Samsung Galaxy M14 (6GB RAM + 128GB)","Samsung",15490,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Exynos","8","2.4",6,128,6000,1,25,6.6,90,"1080 x 2408",3,50,13,1,1024
+26,"Realme 12 Pro","Realme",24990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","3",8,128,5000,1,80,6.7,144,"1080 x 2400",3,108,32,1,1024
+27,"Vivo V27 Pro","Vivo",37999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","3.1",8,128,4600,1,66,6.78,120,"1080 x 2400",3,50,50,0,0
+28,"Samsung Galaxy A14 5G","Samsung",15998,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Exynos","8","2.4",4,64,5000,1,15,6.6,90,"1080 x 2408",3,50,13,1,1024
+29,"Samsung Galaxy A54 5G","Samsung",35990,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.4",8,128,5000,1,25,6.4,120,"1080 x 2340",3,50,32,1,1024
+30,"Vivo Y27 5G","Vivo",20999,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.2",8,128,5000,1,44,6.64,90,"1080 x 2388",2,50,8,1,1024
+31,"Honor 90","Honor",44990,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.36",12,256,5000,1,66,6.7,120,"1200 x 2664",3,200,50,0,0
+32,"Asus ROG Phone 7 Pro","Asus",94990,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",18,512,6000,1,65,6.78,165,"1080 x 2448",3,50,12,0,0
+33,"OnePlus Nord 3 5G","OnePlus",33722,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","3.05",8,128,5000,1,80,6.74,120,"1240 x 2772",3,50,16,0,0
+34,"OPPO Reno 10 Pro","OPPO",39999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.4",12,256,4600,1,80,6.7,120,"1080 x 2412",3,50,32,0,0
+35,"Samsung Galaxy M34 5G","Samsung",18999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.4",6,128,6000,1,25,6.5,120,"1080 x 2340",3,50,13,1,1024
+36,"Realme 11 Pro Plus","Realme",27999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.6",8,256,5000,1,100,6.7,120,"1080 x 2412",3,200,32,0,0
+37,"Realme C53 (6GB RAM + 64GB)","Realme",10999,76,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","8","1.82",6,64,5000,1,18,6.74,90,"1080 x 2400",2,108,8,1,2048
+38,"OnePlus Nord CE 3 Lite 5G (8GB RAM + 256GB)","OnePlus",21999,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,256,5000,1,67,6.72,120,"1080 x 2400",3,108,16,1,1024
+39,"Realme 12","Realme",14990,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",8,128,5000,1,67,6.67,120,"1080 x 2408",3,50,16,1,1024
+40,"Samsung Galaxy S21 FE 5G","Samsung",32949,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.9",8,128,4500,1,25,6.4,120,"1080 x 2340",3,12,32,0,0
+41,"Samsung Galaxy S22 Ultra 5G","Samsung",83500,93,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3",12,256,5000,1,45,6.8,120,"1440 x 3080",4,108,40,0,0
+42,"Xiaomi Redmi Note 14 Pro Max","Xiaomi",29990,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","",8,128,5200,1,120,6.78,144,"1080 x 2460",4,200,32,1,1024
+43,"Samsung Galaxy M34 5G (8GB RAM + 128GB)","Samsung",19960,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.4",8,128,6000,1,25,6.5,120,"1080 x 2340",3,50,13,1,1024
+44,"Realme 10","Realme",11999,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.2",4,64,5000,1,33,6.4,90,"1080 x 2400",2,50,16,1,1024
+45,"OnePlus Nord 3 5G (16GB RAM + 256GB)","OnePlus",37898,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","3.05",16,256,5000,1,80,6.74,120,"1240 x 2772",3,50,16,0,0
+46,"Vivo V27","Vivo",32500,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.8",8,128,4600,1,66,6.78,120,"1080 x 2400",3,50,50,0,0
+47,"Nothing Phone 2","Nothing",44999,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",8,128,4700,1,45,6.7,120,"1080 x 2412",2,50,32,0,0
+48,"Infinix GT 10 Pro Plus","Infinix",42999,91,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","3",12,256,5000,1,260,6.82,144,"1080 x 2460",3,200,32,1,1024
+49,"Poco C55","Poco",7499,71,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,64,5000,1,10,6.71,0,"720 x 1650",2,50,5,1,1024
+50,"Motorola Moto G32 (8GB RAM + 128GB)","Motorola",11999,81,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",8,128,5000,1,33,6.55,90,"1080 x 2400",3,50,16,1,1024
+51,"Xiaomi Redmi 12C","Xiaomi",8499,70,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,64,5000,0,0,6.71,0,"720 x 1650",2,50,5,1,1024
+52,"Samsung Galaxy A74 5G","Samsung",42999,90,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.4",8,128,5000,1,33,6.7,120,"1080 x 2412",4,108,32,1,1024
+53,"Realme Narzo N53 (6GB RAM + 128GB)","Realme",10999,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","8","1.8",6,128,5000,1,33,6.74,90,"720 x 1600",2,50,8,1,2048
+54,"Xiaomi Redmi Note 11 Pro Plus 5G","Xiaomi",24990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"","8","2.2",6,128,5000,1,67,6.67,120,"1080 x 2400",3,108,16,1,1024
+55,"Xiaomi Redmi Note 12 (8GB RAM + 256GB)","Xiaomi",20999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2",8,256,5000,1,33,6.67,120,"1080 x 2400",3,48,13,1,1024
+56,"Vivo V29","Vivo",32990,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.5",8,256,4505,1,80,6.67,120,"1080 x 2400",3,64,32,1,0
+57,"Samsung Galaxy S23 5G","Samsung",74998,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.36",8,128,3900,1,25,6.1,120,"1080 x 2340",3,50,12,0,0
+58,"Xiaomi Redmi Note 12 Pro 5G","Xiaomi",22299,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.6",6,128,5000,1,67,6.67,120,"1080 x 2400",3,50,16,0,0
+59,"Infinix Hot 30i","Infinix",8999,76,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",8,128,5000,1,10,6.6,90,"720 x 1612",2,50,8,1,1024
+60,"Infinix Zero 5G 2023","Infinix",14999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.5",8,128,5000,1,33,6.78,120,"1080 x 2460",3,50,16,1,256
+61,"Samsung Galaxy S23 Ultra 5G","Samsung",107800,94,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.36",12,256,5000,1,45,6.8,120,"1440 x 3088",4,200,12,0,0
+62,"Poco M4 5G","Poco",10999,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.2",4,64,5000,1,18,6.58,90,"1080 x 2400",2,50,8,1,512
+63,"Poco F5","Poco",27999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2.91",8,256,5000,1,67,6.67,120,"1080 x 2400",3,64,16,0,0
+64,"Realme 10 Pro Plus","Realme",22999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.6",6,128,5000,1,67,6.7,120,"1080 x 2412",3,108,16,0,0
+65,"Xiaomi 13 Ultra 5G","Xiaomi",71499,95,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",12,256,5000,1,90,6.73,120,"1440 x 3200",4,50,32,0,0
+66,"Jio JioPhone 5G","Jio",9990,64,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",4,32,5000,1,18,6.5,90,"720 x 1600",2,13,5,1,512
+67,"Infinix Hot 30 5G","Infinix",12499,77,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.2",4,128,6000,1,18,6.78,120,"1080 x 2460",2,50,8,1,1024
+68,"Poco C51","Poco",6499,66,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.2",4,64,5000,1,10,6.52,0,"720 x 1600",2,8,5,1,1024
+69,"Tecno Camon 20 Pro 5G","Tecno",18990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3",8,128,5000,1,33,6.67,120,"1080 x 2400",3,64,32,0,0
+70,"OnePlus 12 Pro","OnePlus",69999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Snapdragon","8","",12,256,4800,1,100,6.73,144,"1440 x 3412",3,108,32,0,0
+71,"iQOO Neo 7 5G","iQOO",28999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","3.1",8,128,5000,1,120,6.78,120,"1080 x 2400",3,64,16,0,0
+72,"Samsung Galaxy F04","Samsung",8495,68,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,1,15,6.5,0,"720 x 1600",2,13,5,1,1024
+73,"Samsung Galaxy A73 5G","Samsung",37999,90,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.4",8,128,5000,1,25,6.7,120,"1080 x 2400",4,108,32,1,1024
+74,"iQOO Z6 Lite (6GB RAM + 128GB)","iQOO",14499,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2",6,128,5000,1,18,6.58,120,"1080 x 2408",2,50,8,1,1024
+75,"Infinix Hot 30 5G (8GB RAM + 128GB)","Infinix",13499,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.2",8,128,6000,1,18,6.78,120,"1080 x 2460",2,50,8,1,1024
+76,"Nothing Phone 1","Nothing",28999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.5",8,128,4500,1,33,6.55,120,"1080 x 2400",2,50,16,0,0
+77,"Poco X5 Pro","Poco",20999,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2.4",6,128,5000,1,67,6.67,120,"1080 x 2400",3,108,16,0,0
+78,"Realme Narzo N55","Realme",10999,73,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,64,5000,1,33,6.72,90,"1080 x 2400",2,64,8,1,1024
+79,"Xiaomi Redmi A2 (4GB RAM + 64GB)","Xiaomi",7186,66,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.2",4,64,5000,1,10,6.52,0,"720 x 1600",2,8,5,1,512
+80,"Motorola Edge 20 Fusion 5G (8GB RAM + 128GB)","Motorola",24490,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.4",8,128,5000,1,30,6.67,90,"1080 x 2400",3,108,32,1,1024
+81,"Oppo Reno 8T","Oppo",29999,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",8,128,4800,1,67,6.7,120,"1080 x 2412",3,108,32,1,1024
+82,"Nokia 7610 5G","Nokia",52990,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.91",12,256,4500,1,44,6.67,120,"1080 x 2400",3,108,32,0,0
+83,"Realme Narzo 60 Pro 5G","Realme",23999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.6",8,128,5000,1,67,6.7,120,"1080 x 2412",2,100,16,0,0
+84,"Samsung Galaxy M14","Samsung",14046,77,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Exynos","8","2.4",4,128,6000,1,25,6.6,90,"1080 x 2408",3,50,13,1,1024
+85,"OnePlus Nord 2T 5G","OnePlus",28497,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3",8,128,4500,1,80,6.43,90,"1080 x 2400",3,50,32,0,0
+86,"Realme 10 Pro","Realme",18999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",6,128,5000,1,33,6.72,120,"1080 x 2400",2,108,16,1,1024
+87,"Samsung Galaxy S20 FE 5G","Samsung",27149,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.84",8,128,4500,1,0,6.5,120,"1080 x 2400",3,12,32,1,0
+88,"Realme 11 Pro (8GB RAM + 256GB)","Realme",24499,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.6",8,256,5000,1,67,6.7,120,"1080 x 2412",2,100,16,0,0
+89,"Realme GT Neo 3 5G","Realme",24449,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.85",8,128,5000,1,80,6.7,120,"1080 x 2412",3,50,16,0,0
+90,"Samsung Galaxy F14 5G (6GB RAM + 128GB)","Samsung",14990,71,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Exynos","8","",6,128,6000,1,25,6.6,0,"2408 x 1080",2,50,13,1,1024
+91,"Gionee G13 Pro","Gionee",6190,56,"HarmonyOS","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","4","2",4,32,3500,0,0,6.26,0,"720 x 1600",2,13,5,1,0
+92,"OnePlus Nord CE 2 Lite 5G","OnePlus",17690,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",6,128,5000,1,33,6.59,120,"1080 x 2412",3,64,16,1,1024
+93,"Xiaomi Redmi Note 13 Pro Max 5G","Xiaomi",20499,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2.4",6,128,5200,1,67,6.67,120,"1080 x 2460",4,108,32,1,512
+94,"Samsung Galaxy M52 5G","Samsung",23994,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.4",6,128,5000,1,25,6.7,120,"1080 x 2400",3,64,32,1,1024
+95,"OnePlus 11R (16GB RAM + 256GB)","OnePlus",44729,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",16,256,5000,1,100,6.74,120,"1240 x 2772",3,50,16,0,0
+96,"OnePlus 11 Pro","OnePlus",69999,90,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",8,128,4500,1,100,6.7,120,"1440 x 3216",3,50,16,0,0
+97,"Xiaomi Redmi 11 Prime","Xiaomi",9499,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2.2",4,64,5000,1,18,6.58,90,"1080 x 2400",3,50,8,1,512
+98,"Google Pixel 6A","Google",27999,71,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Google","8","",6,128,4410,1,0,6.14,0,"1080 x 2400",2,12,8,0,0
+99,"OPPO F23","OPPO",23999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,256,5000,1,67,6.72,120,"1080 x 2400",3,64,32,1,1024
+100,"Vivo Y16 (4GB RAM + 64GB)","Vivo",11999,68,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,1,10,6.51,0,"720 x 1600",2,13,5,1,0
+101,"OPPO Reno8 5G","OPPO",26999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3",8,128,4500,1,80,6.43,90,"1080 x 2400",3,50,32,0,0
+102,"Xiaomi Redmi 12 5G","Xiaomi",12999,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.2",4,128,5000,1,18,6.79,90,"1080 x 2460",2,50,5,1,0
+103,"Realme C55","Realme",10999,73,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,64,5000,1,33,6.72,90,"1080 x 2400",2,64,8,1,1024
+104,"OnePlus 10 Pro 5G","OnePlus",49999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3",8,128,5000,1,80,6.7,120,"1440 x 3216",3,50,32,0,0
+105,"Honor 90 Pro","Honor",55990,91,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",12,256,5000,1,90,6.78,120,"1224 x 2700",3,200,50,0,0
+106,"Poco X5 (8GB RAM + 256GB)","Poco",16999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2.2",8,256,5000,1,33,6.67,120,"1080 x 2400",3,48,13,1,1024
+107,"OnePlus Nord CE 4 Lite 5G","OnePlus",20990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.4",8,128,5000,1,80,6.74,120,"1080 x 2400",3,108,16,1,1024
+108,"OnePlus 10R 5G","OnePlus",29900,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.85",8,128,5000,1,80,6.7,120,"1080 x 2412",3,50,16,0,0
+109,"Xiaomi Redmi Note 14 Pro 5G","Xiaomi",18990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","2.2",8,128,5000,1,120,6.71,144,"1080 x 2460",3,108,32,0,0
+110,"Oppo Find X6 Pro","Oppo",71990,91,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",12,256,5000,1,100,6.82,120,"1440 x 3168",3,50,32,0,0
+111,"Oppo K11x 5G","Oppo",17490,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,128,5000,1,67,6.72,120,"1080 x 2400",2,108,16,0,0
+112,"Realme Narzo 60 5G (8GB RAM +256GB)","Realme",19999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",8,256,5000,1,33,6.43,90,"1080 x 2400",2,64,16,1,1024
+113,"Samsung Galaxy F54","Samsung",29999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.4",8,256,6000,1,25,6.7,120,"1080 x 2408",3,108,32,1,1024
+114,"Vivo Y22","Vivo",14499,72,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,64,5000,1,18,6.55,0,"720 x 1612",2,50,8,1,1024
+115,"OnePlus 12R","OnePlus",39999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",8,128,5500,1,100,6.7,120,"1240 x 2772",3,50,16,0,0
+116,"Motorola Moto G13","Motorola",9999,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2",4,128,5000,1,10,6.5,90,"720 x 1600",3,50,8,1,512
+118,"Xiaomi Redmi Note 12 Turbo Harry Potter Edition","Xiaomi",27990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.91",12,256,5000,1,67,6.67,120,"1080 x 2400",3,64,16,0,0
+119,"Oppo A78","Oppo",17933,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.2",8,128,5000,1,33,6.56,90,"720 x 1612",2,50,8,1,0
+120,"Motorola Moto G73","Motorola",16999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.2",8,128,5000,1,30,6.5,120,"1080 x 2400",2,50,16,1,1024
+121,"Tecno Spark 10 Pro","Tecno",12990,80,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2",8,128,5000,1,18,6.8,90,"1080 x 2460",2,50,32,1,0
+122,"Vivo T3 5G","Vivo",21990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.4",8,128,4700,1,67,6.58,120,"1080 x 2400",2,108,16,1,1024
+123,"iQOO Z7 Pro 5G","iQOO",29999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.7",8,128,5000,1,120,6.67,144,"1080 x 2412",3,50,32,1,1024
+124,"OnePlus Nord CE 3 (12GB RAM + 256GB)","OnePlus",28999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.7",12,256,5000,1,80,6.7,120,"1080 x 2412",3,50,16,1,1024
+125,"Nokia Magic Max","Nokia",49990,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",16,256,5000,1,67,6.7,120,"1080 x 2400",2,108,32,0,0
+126,"Vivo T2x 5G (8GB RAM + 128GB)","Vivo",15999,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",8,128,5000,1,18,6.58,0,"1080 x 2408",2,50,8,1,1024
+127,"Xiaomi Redmi K50i 5G","Xiaomi",20999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.85",6,128,5080,1,67,6.6,144,"1080 x 2460",3,64,16,0,0
+128,"Apple iPhone 11","Apple",40999,73,"iOS","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"A13","6","2.65",4,64,3110,0,0,6.1,0,"828 x 1792",2,12,12,0,0
+129,"Samsung Galaxy S24 Ultra","Samsung",119990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi",1,0,0,"Snapdragon","8","",12,256,5100,1,45,6.83,144,"1200 x 2860",4,200,60,0,0
+130,"Realme 9 5G","Realme",13499,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",4,64,5000,1,18,6.5,90,"1080 x 2400",3,48,16,1,1024
+131,"Realme 10 (8GB RAM + 128GB)","Realme",15499,79,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.2",8,128,5000,1,33,6.4,90,"1080 x 2400",2,50,16,1,1024
+132,"iQOO Z7 5G","iQOO",19999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.5",6,128,4500,1,44,6.38,90,"1080 x 2408",2,64,16,1,1024
+133,"OPPO Reno 9 Pro 5G","OPPO",39999,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.85",16,256,4500,1,67,6.7,120,"1080 x 2412",2,50,32,0,0
+134,"Motorola Moto G62 (8GB RAM + 128GB)","Motorola",16499,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,128,5000,1,0,6.55,120,"1080 x 2400",3,50,16,1,1024
+135,"Apple iPhone 15","Apple",82990,81,"iOS","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Bionic","6","3.46",6,128,3877,1,0,6.06,0,"1170 x 2532",2,48,13,0,0
+136,"Realme Narzo 60 Pro (12GB RAM + 1TB)","Realme",29999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.6",12,1024,5000,1,67,6.7,120,"1080 x 2400",2,100,16,0,0
+137,"Apple iPhone 9","Apple",29990,61,"iOS","Single Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"A13","6","2.65",3,64,2050,1,0,4.7,0,"750 x 1334",1,12,7,0,0
+139,"OPPO A17","OPPO",12129,72,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,1,0,6.56,0,"720 x 1612",2,50,5,1,1024
+140,"Motorola Edge 30 Ultra (12GB RAM + 256GB)","Motorola",49999,93,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",12,256,4610,1,125,6.67,144,"1080 x 2400",3,200,60,0,0
+141,"Xiaomi Redmi Note 12","Xiaomi",16999,76,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2",4,128,5000,1,33,6.67,120,"1080 x 2400",3,48,13,1,1024
+142,"Vivo V29 Pro","Vivo",43990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","3.1",8,256,5000,1,120,6.7,120,"1080 x 2400",3,50,50,1,0
+143,"Samsung Galaxy F14 5G","Samsung",13990,68,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Exynos","8","",4,128,6000,1,25,6.6,0,"2408 x 1080",2,50,13,1,1024
+144,"iQOO Neo 7 Pro","iQOO",34999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","3.2",8,128,5000,1,120,6.78,120,"1080 x 2400",3,50,16,0,0
+145,"Xiaomi Redmi Note 12 Pro Plus","Xiaomi",27800,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.6",8,256,4980,1,120,6.67,120,"1080 x 2400",3,200,16,0,0
+146,"Realme 11 Pro Plus (12GB RAM + 256GB)","Realme",29499,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.6",12,256,5000,1,100,6.7,120,"1080 x 2412",3,200,32,0,0
+147,"Samsung Galaxy F23 5G (6GB RAM + 128GB)","Samsung",16999,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",6,128,5000,1,25,6.6,120,"1080 x 2408",3,50,8,1,1024
+148,"Nokia Play 2 Max","Nokia",55990,90,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",16,256,5000,1,67,6.6,120,"1080 x 2400",2,108,32,0,0
+149,"Samsung Galaxy A23 5G","Samsung",21950,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",6,128,5000,1,25,6.6,120,"1080 x 2408",4,50,8,1,1024
+150,"Vivo Y56","Vivo",19250,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",8,128,5000,1,18,6.58,0,"1080 x 2408",2,50,16,1,0
+151,"Samsung Galaxy S23 FE 5G","Samsung",54999,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Exynos","8","",8,128,4500,1,25,6.4,0,"1080 x 2400",3,50,12,0,0
+152,"Vivo U3x","Vivo",8990,71,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2",6,64,5000,1,18,6.58,90,"1080 x 2408",2,13,8,0,0
+153,"OnePlus Nord CE 2 5G (8GB RAM + 128GB)","OnePlus",24999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2",8,128,4500,1,65,6.43,90,"1080 x 2400",3,64,16,1,1024
+154,"Xiaomi Redmi 11 Prime 5G","Xiaomi",12999,74,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.2",4,64,5000,1,18,6.58,90,"1080 x 2408",2,50,5,1,512
+156,"Apple iPhone 14 Pro","Apple",120999,84,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","3.46",6,128,3200,1,0,6.1,120,"1179 x 2556",3,48,12,0,0
+157,"Apple iPhone 14 Plus","Apple",79999,82,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","3.22",6,128,4325,1,0,6.7,0,"1284 x 2778",2,12,12,0,0
+158,"Oppo Find X6","Oppo",54990,90,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","3.05",12,256,4880,1,80,6.74,120,"1240 x 2772",3,50,32,0,0
+159,"OnePlus 12","OnePlus",60999,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Snapdragon","8","",8,256,5400,1,100,6.7,120,"1440 x 3420",3,64,32,0,0
+160,"Vivo V27 4G","Vivo",19990,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Helio","8","2",8,128,4600,1,66,6.64,120,"1080 x 2400",3,50,16,1,0
+161,"Samsung Galaxy A14 5G (6GB RAM + 128GB)","Samsung",17999,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Exynos","8","2.4",6,128,5000,1,15,6.6,90,"1080 x 2408",3,50,13,1,1024
+162,"Infinix Zero 5G 2023 Turbo","Infinix",16999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.6",8,256,5000,1,33,6.78,120,"1080 x 2460",3,50,16,1,256
+163,"Oppo Reno 10 Pro Plus","Oppo",54999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",12,256,4700,1,100,6.74,120,"1240 x 2772",3,64,32,0,0
+164,"Samsung Galaxy M33 5G","Samsung",16499,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.4",6,128,6000,1,25,6.6,120,"1080 x 2400",4,50,8,1,1024
+165,"Realme 10 Pro Plus (8GB RAM + 128GB)","Realme",23999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.6",8,128,5000,1,67,6.7,120,"1080 x 2412",3,108,16,0,0
+166,"Realme GT Neo 6","Realme",39999,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",8,256,5000,1,100,6.78,144,"1240 x 2772",3,50,32,0,0
+168,"Poco X5","Poco",14999,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2.2",6,128,5000,1,33,6.67,120,"1080 x 2400",3,48,13,1,1024
+169,"OPPO F23 Pro","OPPO",19990,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,128,5000,1,67,6.72,90,"1080 x 2400",3,64,32,1,256
+170,"Samsung Galaxy F13","Samsung",10999,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Exynos","8","2",4,64,6000,1,15,6.6,0,"2408 x 1080",3,50,8,1,1024
+171,"Samsung Galaxy S21 FE (Snapdragon)","Samsung",49999,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.84",8,256,4500,1,25,6.4,120,"1080 x 2340",3,12,32,0,0
+172,"Samsung Galaxy S22 Plus 5G","Samsung",59999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3",8,128,4500,1,45,6.6,120,"1080 x 2340",3,50,10,0,0
+173,"Samsung Galaxy S21 FE 5G (8GB RAM + 256GB)","Samsung",57999,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.9",8,256,4500,1,25,6.4,120,"1080 x 2340",3,12,32,0,0
+174,"Samsung Galaxy A34 5G","Samsung",28999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.6",6,128,5000,1,25,6.6,120,"1080 x 2340",3,48,13,1,1024
+175,"Xiaomi Redmi A2","Xiaomi",5699,61,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.2",2,32,5000,1,10,6.52,0,"720 x 1600",2,8,5,1,512
+176,"Oppo A56s","Oppo",12999,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",8,128,5000,0,0,6.56,0,"720 x 1612",2,13,8,1,0
+177,"Realme GT 2 5G","Realme",24999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.84",8,128,5000,1,65,6.62,120,"1080 x 2400",3,50,16,0,0
+178,"Duoqin F22 Pro","Duoqin",9990,56,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,64,2150,0,0,3.54,0,"640 x 960",1,8,2,1,0
+179,"iQOO Z7s 5G","iQOO",18999,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",6,128,4500,1,44,6.38,90,"1080 x 2388",2,64,16,1,1024
+180,"Poco M5","Poco",8499,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2.2",4,64,5000,1,18,6.58,90,"1080 x 2400",3,50,8,1,512
+181,"Vivo Y78 Plus","Vivo",18990,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,128,5000,1,44,6.78,120,"1080 x 2400",2,50,8,0,0
+182,"Jio Phone 3","Jio",4499,49,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Quad","4","1.4",2,64,2800,0,0,5.0,0,"720 x 1280",1,5,2,1,128
+183,"Realme C51","Realme",8999,70,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","8","1.8",4,64,5000,1,33,6.7,90,"720 x 1600",2,50,5,1,2048
+184,"Realme GT Neo 5 SE","Realme",23990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.91",8,256,5500,1,100,6.74,144,"1240 x 2772",3,64,16,0,0
+185,"Xiaomi Redmi Note 12 4G","Xiaomi",13690,79,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.8",6,64,5000,1,33,6.67,120,"1080 x 2400",3,50,13,1,1024
+186,"Vivo V25 Pro 5G","Vivo",27500,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","3",8,128,4830,1,66,6.56,120,"1080 x 2376",3,64,32,0,0
+187,"Xiaomi 12 Pro 5G","Xiaomi",41999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3",8,256,4600,1,120,6.73,120,"1440 x 3200",3,50,32,0,0
+188,"Realme Narzo N53","Realme",8999,70,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","8","1.8",4,64,5000,1,33,6.74,90,"720 x 1600",2,50,8,1,2048
+189,"Vivo V26 Pro","Vivo",42990,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3.2",12,256,4800,1,100,6.7,120,"1080 x 2400",3,200,32,0,0
+190,"Realme C2s","Realme",3499,63,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",3,32,4000,0,0,6.1,0,"720 x 1560",2,13,5,1,128
+191,"Vivo Y23","Vivo",15990,72,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,128,5000,1,18,6.6,120,"720 x 1612",2,50,8,1,1024
+192,"Nubia Red Magic 8 Pro 5G","Nubia",46990,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",8,128,6000,1,80,6.8,120,"1116 x 2480",3,50,16,0,0
+193,"Xiaomi Redmi Note 12R","Xiaomi",11990,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.2",4,128,5000,1,18,6.79,90,"1080 x 2460",2,50,5,1,0
+194,"Motorola Edge 30 Fusion 5G","Motorola",34999,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.9",8,128,4400,1,68,6.55,144,"1080 x 2400",3,50,32,0,0
+195,"Apple iPhone 15 Plus","Apple",84990,85,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Bionic","6","3.46",8,128,4912,1,0,6.71,120,"1284 x 2778",2,48,12,0,0
+196,"iQOO Neo 7 Pro (12GB RAM + 256GB)","iQOO",37999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","3.2",12,256,5000,1,120,6.78,120,"1080 x 2400",3,50,16,0,0
+197,"Xiaomi Redmi 11 Prime (6GB RAM + 128GB)","Xiaomi",10999,76,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2.2",6,128,5000,1,18,6.58,90,"1080 x 2400",3,50,8,1,512
+198,"Google Pixel 7 Pro 5G","Google",70999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Google","8","2.85",12,128,5000,1,30,6.7,120,"1440 x 3120",3,50,11,0,0
+199,"OnePlus 11 (16GB RAM + 256GB)","OnePlus",61900,90,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",16,256,5000,1,100,6.7,120,"1440 x 3216",3,50,16,0,0
+200,"Samsung Galaxy A53 5G","Samsung",26999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.4",6,128,5000,1,25,6.5,120,"1080 x 2400",4,64,32,1,1024
+201,"Realme Narzo N55 (6GB RAM + 128GB)","Realme",12999,76,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",6,128,5000,1,33,6.72,90,"1080 x 2400",2,64,8,1,1024
+202,"Tecno Camon 20 Premier","Tecno",29999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3",8,512,5000,1,45,6.67,120,"1080 x 2400",3,108,32,0,0
+203,"Apple iPhone 15 Plus","Apple",84990,85,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Bionic","6","3.46",8,128,4912,1,0,6.71,120,"1284 x 2778",2,48,12,0,0
+204,"Motorola Moto E13","Motorola",6499,64,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","8","2",2,64,5000,1,10,6.5,0,"720 x 1600",1,13,5,1,1024
+205,"Realme 10 Pro (8GB RAM + 128GB)","Realme",19499,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,128,5000,1,33,6.72,120,"1080 x 2400",2,108,16,1,1024
+206,"Xiaomi Redmi 11 Prime (6GB RAM + 128GB)","Xiaomi",10999,76,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2.2",6,128,5000,1,18,6.58,90,"1080 x 2400",3,50,8,1,512
+207,"Samsung Galaxy F13","Samsung",9499,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Exynos","8","2",4,64,6000,1,15,6.6,0,"2408 x 1080",3,50,8,1,1024
+208,"Motorola Moto E32","Motorola",7999,71,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,1,10,6.5,90,"720 x 1600",2,50,8,1,1024
+209,"Vivo Y02t 4G","Vivo",9999,64,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,1,18,6.51,0,"720 x 1600",1,8,5,1,1024
+210,"Meizu 20 Infinity Unbound Edition","Meizu",49999,89,"Flyme","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",12,256,4800,1,65,6.79,120,"1368 x 3192",3,50,32,0,0
+211,"Vivo V27 Pro (12GB RAM + 256GB)","Vivo",42999,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","3.1",12,256,4600,1,66,6.78,120,"1080 x 2400",3,50,50,0,0
+212,"Samsung Galaxy A14 5G (8GB RAM + 128GB)","Samsung",19999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Exynos","8","2.4",8,128,5000,1,15,6.6,90,"1080 x 2408",3,50,13,1,1024
+213,"Xiaomi Redmi 11 Prime 5G (6GB RAM + 128GB)","Xiaomi",14999,77,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.2",6,128,5000,1,18,6.58,90,"1080 x 2408",2,50,5,1,512
+214,"Xiaomi 13 Pro 5G","Xiaomi",74990,92,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",12,256,4820,1,120,6.73,120,"1440 x 3200",3,50,32,0,0
+215,"iQOO Z7 5G (8GB RAM + 128GB)","iQOO",23990,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.5",8,128,4500,1,44,6.38,90,"1080 x 2408",2,64,16,1,1024
+216,"Poco C55 (6GB RAM + 128GB)","Poco",9499,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",6,128,5000,1,10,6.71,0,"720 x 1650",2,50,5,1,1024
+217,"Samsung Galaxy M04","Samsung",8399,66,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,1,15,6.5,0,"720 x 1600",2,13,5,1,1024
+218,"Samsung Galaxy A24","Samsung",17999,79,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2.2",6,128,5000,1,25,6.5,90,"1080 x 2340",3,50,13,1,1024
+219,"Realme Narzo 50 Pro 5G (8GB RAM + 128GB)","Realme",18999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.5",8,128,5000,1,33,6.4,90,"1080 x 2400",3,48,16,1,1024
+220,"OPPO Reno 9 Pro Plus","OPPO",45999,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",16,256,4700,1,80,6.7,120,"1080 x 2412",3,50,32,0,0
+221,"Samsung Galaxy A53 5G","Samsung",26999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.4",6,128,5000,1,25,6.5,120,"1080 x 2400",4,64,32,1,1024
+222,"Poco M4 5G (6GB RAM + 128GB)","Poco",12999,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.2",6,128,5000,1,18,6.58,90,"1080 x 2400",2,50,8,1,512
+223,"Vivo Y27 4G","Vivo",14999,76,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2",6,128,5000,1,44,6.64,0,"1080 x 2388",2,50,8,1,0
+224,"Xiaomi Redmi Note 12 (6GB RAM + 128GB)","Xiaomi",18999,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2",6,128,5000,1,33,6.67,120,"1080 x 2400",3,48,13,1,1024
+225,"Poco X5 Pro (8GB RAM + 256GB)","Poco",22999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2.4",8,256,5000,1,67,6.67,120,"1080 x 2400",3,108,16,0,0
+226,"Realme 9 5G SE (8GB RAM + 128GB)","Realme",17999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.4",8,128,5000,1,30,6.6,144,"1080 x 2412",3,48,16,1,1024
+227,"Infinix Note 30 Pro","Infinix",19990,86,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2.2",8,256,5000,1,68,6.78,120,"1080 x 2400",3,108,32,1,1024
+228,"Honor X50","Honor",15990,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2.2",8,128,5800,1,33,6.78,120,"1220 x 2652",2,108,8,0,0
+229,"Apple iPhone 15 Pro Max","Apple",142990,89,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","3.46",8,256,4852,1,25,6.7,120,"1284 x 2778",3,50,12,0,0
+231,"Samsung Galaxy A55 5G","Samsung",39990,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos,","8","",8,128,5000,1,30,6.6,120,"1080 x 2340",3,64,32,1,1024
+232,"Meizu 20 Infinity Unbound Edition","Meizu",49999,89,"Flyme","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",12,256,4800,1,65,6.79,120,"1368 x 3192",3,50,32,0,0
+233,"Realme C55 (6GB RAM + 64GB)","Realme",11799,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",6,64,5000,1,33,6.72,90,"1080 x 2400",2,64,8,1,1024
+234,"Infinix Hot 30","Infinix",10999,80,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2",8,256,5000,1,33,6.78,90,"1080 x 2460",2,50,8,1,1024
+235,"Realme 11 Pro (12GB RAM + 256GB)","Realme",27400,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.6",12,256,5000,1,67,6.7,120,"1080 x 2412",2,100,16,0,0
+236,"Tecno Camon 20 Premier","Tecno",29999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3",8,512,5000,1,45,6.67,120,"1080 x 2400",3,108,32,0,0
+237,"Vivo Y100","Vivo",23999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",8,128,4500,1,44,6.38,90,"1080 x 2400",3,64,16,1,0
+238,"Infinix Zero Ultra","Infinix",29999,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.5",8,256,4500,1,180,6.8,120,"1080 x 2400",3,200,32,0,0
+239,"Motorola Moto G32","Motorola",10900,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",4,64,5000,1,33,6.55,90,"1080 x 2400",3,50,16,1,1024
+240,"Vivo T2 5G (8GB RAM + 128GB)","Vivo",20999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,128,4500,1,44,6.38,90,"1080 x 2400",2,64,16,1,1024
+242,"Infinix Note 30 VIP","Infinix",24990,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3",12,256,5000,1,68,6.67,120,"1080 x 2400",3,108,32,1,1024
+243,"Vivo V27 (12GB RAM + 256GB)","Vivo",36999,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.8",12,256,4600,1,66,6.78,120,"1080 x 2400",3,50,50,0,0
+244,"Xiaomi Redmi Note 12 Pro (8GB RAM + 256GB)","Xiaomi",25149,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.6",8,256,5000,1,67,6.67,120,"1080 x 2400",3,50,16,0,0
+245,"Realme 9i 5G","Realme",14599,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",4,64,5000,1,18,6.6,90,"1080 x 2408",3,50,8,1,1024
+246,"Samsung Galaxy F23 5G","Samsung",15999,78,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",4,128,5000,1,25,6.6,120,"1080 x 2408",3,50,8,1,1024
+247,"Motorola Moto G62 5G","Motorola",15499,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",6,128,5000,1,0,6.55,120,"1080 x 2400",3,50,16,1,1024
+248,"Tecno Camon 20 Pro 5G (8GB RAM + 256GB)","Tecno",21290,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3",8,256,5000,1,33,6.67,120,"1080 x 2400",3,64,32,0,0
+249,"Google Pixel 7A","Google",43999,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Tensor","8","2.85",8,128,4385,1,20,6.1,90,"1080 x 2400",2,64,13,0,0
+250,"Vivo T2 5G","Vivo",18999,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",6,128,4500,1,44,6.38,90,"1080 x 2400",2,64,16,1,1024
+251,"Motorola Edge 30 5G","Motorola",24999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.5",6,128,4020,1,33,6.5,144,"1080 x 2400",3,50,32,0,0
+252,"Realme GT Neo 5","Realme",30999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",8,256,5000,1,150,6.74,144,"1240 x 2772",3,50,16,0,0
+253,"Motorola Moto G42","Motorola",9999,78,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Snapdragon","8","2.4",4,64,5000,1,20,6.47,0,"1080 x 2400",3,50,16,1,1024
+254,"Samsung Galaxy M16","Samsung",16990,76,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos,","8","",8,128,7000,1,35,6.73,120,"1080 x 2408",3,64,32,1,1024
+255,"Infinix Note 12 Pro 5G","Infinix",15999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",8,128,5000,1,33,6.7,0,"1080 x 2400",3,108,16,1,2048
+256,"Vivo X90 5G","Vivo",59999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","3.05",8,256,4810,1,120,6.78,120,"1260 x 2800",3,50,32,0,0
+257,"Samsung Galaxy S22 5G","Samsung",53000,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3",8,128,3700,1,25,6.1,120,"1080 x 2340",3,50,10,0,0
+260,"Apple iPhone 13","Apple",61490,79,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","3.22",4,128,3240,1,0,6.1,0,"1170 x 2532",2,12,12,0,0
+261,"Xiaomi Redmi 12C (6GB RAM + 128GB)","Xiaomi",10382,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",6,128,5000,0,0,6.71,0,"720 x 1650",2,50,5,1,1024
+262,"Apple iPhone 14","Apple",68999,81,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","3.22",6,128,3279,1,0,6.1,0,"1170 x 2532",2,12,12,0,0
+263,"itel S23","itel",8999,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Octa","8","1.6",8,128,5000,1,10,6.6,90,"1600 x 720",2,50,8,1,512
+264,"Motorola Moto E13 (4GB RAM + 64GB)","Motorola",7299,67,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","8","2",4,64,5000,1,10,6.5,0,"720 x 1600",1,13,5,1,1024
+265,"Realme C35 (6GB RAM + 128GB)","Realme",13999,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","8","1.8",6,128,5000,1,18,6.6,90,"1080 x 2408",3,50,8,1,1024
+266,"Samsung Galaxy M13 5G","Samsung",13999,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",6,128,5000,1,15,6.5,90,"720 x 1600",2,50,5,1,1024
+267,"Xiaomi Redmi Note 10S","Xiaomi",14890,78,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2.05",6,64,5000,1,33,6.43,0,"1080 x 2400",4,64,13,1,512
+268,"Samsung Galaxy S23 Ultra (12GB RAM + 512GB)","Samsung",123999,94,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.36",12,512,5000,1,45,6.8,120,"1440 x 3088",4,200,12,0,0
+270,"Vivo T3 Pro","Vivo",31990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi",1,0,0,"Snapdragon","8","2.7",8,256,4700,1,80,6.67,120,"1080 x 2408",3,64,32,1,1024
+271,"Vivo V28","Vivo",28990,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,256,5000,1,80,6.7,120,"1080 x 2400",3,108,32,1,0
+272,"iQOO Z6 Lite 5G","iQOO",13990,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2",4,64,5000,1,18,6.58,120,"1080 x 2408",2,50,8,1,1024
+273,"Letv Y1 Pro","Letv",5499,57,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","4","2",4,32,4000,0,0,6.54,0,"720 x 1560",2,8,5,0,0
+274,"Realme 9 5G SE","Realme",19500,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.4",6,128,5000,1,30,6.6,144,"1080 x 2412",3,48,16,1,1024
+275,"Samsung Galaxy M33 5G (8GB RAM + 128GB)","Samsung",17400,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.4",8,128,6000,1,25,6.6,120,"1080 x 2400",4,50,8,1,1024
+276,"Realme C35","Realme",9699,70,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","8","1.8",4,64,5000,1,18,6.6,0,"1080 x 2408",3,50,8,1,1024
+277,"Realme GT 5G","Realme",23499,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.84",8,128,4500,1,65,6.43,120,"1080 x 2400",3,64,16,0,0
+278,"Xiaomi Redmi Note 11S","Xiaomi",12999,80,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2.05",6,64,5000,1,33,6.43,90,"1080 x 2400",4,108,16,1,512
+280,"Vivo X100 Pro 5G","Vivo",64990,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","",12,256,5000,1,150,6.8,144,"1260 x 2800",3,50,32,0,0
+281,"Tecno Spark 10","Tecno",10920,78,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2.3",8,128,5000,1,18,6.56,90,"720 x 1612",2,50,8,1,0
+282,"Samsung Galaxy Note 20 Ultra 5G","Samsung",78999,93,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.73",12,256,4500,1,25,6.9,120,"1440 x 3088",3,108,10,1,1024
+283,"Samsung Galaxy F62 (8GB RAM + 128GB)","Samsung",31999,87,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Exynos","8","2.73",8,128,7000,1,25,6.7,0,"1080 x 2400",4,64,32,1,1024
+284,"Samsung Galaxy A52","Samsung",25490,83,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.3",6,128,4500,1,25,6.5,90,"1080 x 2400",4,64,32,1,1024
+285,"Vivo Y35","Vivo",16999,80,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",8,128,5000,1,44,6.58,90,"1080 x 2408",3,50,16,1,1024
+286,"Xiaomi Redmi Note 12 Pro Plus (12GB RAM + 256GB)","Xiaomi",32899,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.6",12,256,4980,1,120,6.67,120,"1080 x 2400",3,200,16,0,0
+287,"Realme Narzo 60 Pro (12GB RAM + 256GB)","Realme",26999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.6",12,256,5000,1,67,6.7,120,"1080 x 2400",2,100,16,0,0
+288,"Asus ROG Phone 6 Pro 5G","Asus",89999,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",18,512,6000,1,65,6.78,165,"1080 x 2448",3,50,12,0,0
+289,"Honor Play 40C","Honor",9990,71,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",6,128,5200,0,0,6.56,90,"720 x 1612",1,13,5,1,0
+290,"Honor 90 Lite","Honor",24990,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",8,256,4500,1,35,6.7,90,"1080 x 2388",3,100,16,0,0
+291,"Sony Xperia 1 V","Sony",125990,90,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",12,256,5000,1,30,6.5,120,"1644 x 3840",3,48,12,1,0
+292,"Tesla Pi Phone","Tesla",69999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Octa","8","",16,512,5000,1,120,6.73,165,"1080 x 2448",3,50,32,0,0
+294,"Samsung Galaxy A35 5G","Samsung",29990,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Octa","8","",6,128,5000,1,25,6.67,120,"1080 x 2340",3,50,16,1,1024
+295,"Realme GT Neo 3T (8GB RAM + 128GB)","Realme",36999,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","3.2",8,128,5000,1,80,6.62,120,"1080 x 2400",3,64,16,0,0
+296,"itel A60s","itel",6499,54,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","8","",4,64,5000,1,10,6.6,0,"720 x 1612",2,8,5,1,1024
+297,"Nubia Z50 Ultra","Nubia",46990,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",8,256,5000,1,80,6.8,120,"1116 x 2480",3,64,16,0,0
+298,"Apple iPhone 14 Pro Max (256GB)","Apple",137999,86,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","3.46",6,256,4323,1,0,6.7,120,"1290 x 2796",3,48,12,0,0
+299,"iKall Z19 Pro","iKall",7799,60,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Quad","4","1.6",4,64,5000,0,0,6.5,0,"720 x 1600",1,13,8,1,128
+300,"Poco M5 (6GB RAM + 128GB)","Poco",10499,77,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2.2",6,128,5000,1,18,6.58,90,"1080 x 2400",3,50,8,1,512
+301,"Nothing Phone 1 (8GB RAM + 256GB)","Nothing",29999,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.5",8,256,4500,1,33,6.55,120,"1080 x 2400",2,50,16,0,0
+302,"Vivo Y78 5G","Vivo",15990,66,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","",8,128,5000,1,44,6.64,120,"1080 x 2400",2,50,8,0,0
+303,"Samsung Galaxy F24 5G","Samsung",14999,78,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",4,128,5000,1,25,6.6,120,"1080 x 2408",3,50,8,1,1024
+304,"Samsung Galaxy M53 5G (8GB RAM + 128GB)","Samsung",25999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",8,128,5000,1,25,6.7,120,"1080 x 2400",4,108,32,1,1024
+305,"Google Pixel 7 5G","Google",49999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Google","8","2.85",8,128,4355,1,30,6.3,90,"1080 x 2400",2,50,11,0,0
+306,"Samsung Galaxy S21 Ultra","Samsung",105999,93,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.9",12,256,5000,1,25,6.8,120,"1440 x 3200",4,108,40,0,0
+307,"OPPO Reno 8 Pro 5G","OPPO",44990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.85",12,256,4500,1,80,6.7,120,"1080 x 2412",3,50,32,0,0
+308,"Samsung Galaxy A73 5G (8GB RAM + 256GB)","Samsung",40499,90,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.4",8,256,5000,1,25,6.7,120,"1080 x 2400",4,108,32,1,1024
+310,"Xiaomi Redmi 10 (6GB RAM + 128GB)","Xiaomi",10999,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",6,128,6000,1,18,6.7,0,"720 x 1600",2,50,5,1,512
+311,"Samsung Galaxy A23","Samsung",17499,79,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",6,128,5000,1,25,6.6,0,"1080 x 2408",4,50,8,1,1024
+312,"Samsung Galaxy A34 5G (8GB RAM + 128GB)","Samsung",30999,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.6",8,128,5000,1,25,6.6,120,"1080 x 2340",3,48,13,1,1024
+313,"Vivo Y21 2021","Vivo",13490,69,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,1,18,6.51,0,"720 x 1600",2,13,8,1,1024
+314,"Poco M4 Pro 5G","Poco",14900,76,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.4",4,64,5000,1,33,6.6,90,"1080 x 2400",2,50,16,1,1024
+315,"Poco X4 Pro 5G","Poco",22999,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2.2",6,64,5000,1,67,6.67,120,"1080 x 2400",3,64,16,1,1024
+316,"POCO M2 Pro","POCO",11490,76,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.3",4,64,5000,1,33,6.67,0,"1080 x 2400",4,48,16,1,512
+317,"Apple iPhone 13 Pro Max","Apple",129900,84,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","3.22",6,128,4352,1,0,6.7,120,"1284 x 2778",3,12,12,0,0
+318,"Realme C33 (4GB RAM + 64GB)","Realme",9999,67,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","8","1.8",4,64,5000,0,0,6.5,0,"720 x 1600",2,50,5,1,1024
+319,"Xiaomi Redmi Note 12 Pro 4G","Xiaomi",14999,81,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC, IR Blaster",0,1,1,"Snapdragon","8","2.3",6,128,5000,1,67,6.67,120,"1080 x 2400",4,108,16,1,0
+320,"Honor Magic 5 Pro","Honor",103999,92,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",12,512,5100,1,66,6.81,120,"1312 x 2848",4,50,12,0,0
+321,"iQOO Z7s (8GB RAM + 128GB)","iQOO",19999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,128,4500,1,44,6.38,90,"1080 x 2388",2,64,16,1,1024
+322,"OPPO A57 4G (4GB RAM + 64 GB)","OPPO",13140,69,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,1,33,6.56,0,"720 x 1612",2,13,8,1,0
+323,"Infinix Hot 20","Infinix",11499,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",4,64,5000,1,18,6.6,120,"1080 x 2408",2,50,8,1,1024
+324,"Motorola Moto G72 4G","Motorola",15999,82,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.2",6,128,5000,1,33,6.55,120,"1080 x 2400",3,108,16,1,0
+325,"OnePlus Ace 2 Pro","OnePlus",42990,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",12,256,5000,1,150,6.78,120,"1240 x 2772",3,64,32,0,0
+326,"Nubia Z50","Nubia",34999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",8,128,5000,1,80,6.67,144,"1080 x 2400",3,64,16,0,0
+327,"OPPO A17K","OPPO",9499,62,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",3,64,5000,0,0,6.56,0,"720 x 1612",1,8,5,1,1024
+328,"Tecno Spark 10 5G (8GB RAM + 256GB)","Tecno",14999,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.2",8,256,5000,1,18,6.56,90,"720 x 1612",2,50,8,1,1024
+329,"Poco F4 (12GB RAM + 256GB)","Poco",39999,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",12,256,4500,1,67,6.67,120,"1080 x 2400",3,64,20,0,0
+330,"Xiaomi Redmi K50i (8GB RAM + 256GB)","Xiaomi",23999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.85",8,256,5080,1,67,6.6,144,"1080 x 2460",3,64,16,0,0
+331,"Motorola Moto G52 (6GB RAM + 128GB)","Motorola",13999,79,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Snapdragon","8","2.4",6,128,5000,1,33,6.6,90,"2460 x 1080",3,50,16,1,0
+332,"Vivo X90 Pro 5G","Vivo",84999,91,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","3.05",12,256,4870,1,120,6.78,120,"1260 x 2800",3,50,32,0,0
+333,"Motorola Moto G60","Motorola",14999,84,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Snapdragon","8","2.3",6,128,6000,1,20,6.78,120,"1080 x 2460",3,108,32,1,1024
+335,"Itel P40 Plus","Itel",8499,63,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"","8","2",4,128,7000,1,18,6.8,90,"720 x 1640",2,13,8,1,1024
+336,"Vivo Y100A (8GB RAM + 256GB)","Vivo",25999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,256,4500,1,44,6.38,90,"1080 x 2400",3,64,16,1,0
+337,"OPPO Reno 11 Pro","OPPO",47990,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Octa","8","",16,256,5000,1,150,6.73,120,"1080 x 2412",3,200,32,0,0
+338,"Samsung Galaxy M15","Samsung",15990,73,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos,","8","",6,128,6000,1,25,6.67,120,"1080 x 2408",3,50,16,1,1024
+339,"Samsung Galaxy A54 5G (8GB RAM + 256GB)","Samsung",40999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.4",8,256,5000,1,25,6.4,120,"1080 x 2340",3,50,32,1,1024
+340,"Realme 12 Pro Plus","Realme",35990,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","3",8,256,5000,1,120,6.73,120,"1080 x 2412",3,200,32,0,0
+341,"Infinix Smart 7","Infinix",7299,64,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Spreadtrum","8","1.6",4,64,6000,0,0,6.6,0,"720 x 1612",2,13,5,1,2048
+342,"Tecno Spark 10 5G (8GB RAM + 128GB)","Tecno",13990,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.2",8,128,5000,1,18,6.56,90,"720 x 1612",2,50,8,1,1024
+343,"Samsung Galaxy M04 (4GB RAM + 128GB)","Samsung",9499,68,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,128,5000,1,15,6.5,0,"720 x 1600",2,13,5,1,1024
+344,"Apple iPhone 15 Ultra","Apple",149900,79,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","8","",8,128,4700,1,0,6.73,120,"1290 x 2796",3,48,12,0,0
+345,"iQOO Z8 5G","iQOO",28999,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","3.1",4,128,5000,1,120,6.64,144,"1080 x 2412",3,50,16,1,1024
+346,"Poco C50","Poco",5499,59,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","4","2",2,32,5000,1,10,6.52,0,"720 x 1600",2,8,5,1,512
+349,"Realme C33","Realme",8999,64,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","8","1.8",3,32,5000,0,0,6.5,0,"720 x 1600",2,50,5,1,1024
+350,"Motorola Edge 30 Ultra","Motorola",54999,92,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",8,128,4610,1,125,6.67,144,"1080 x 2400",3,200,60,0,0
+351,"iQOO 11 5G","iQOO",54990,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",8,256,5000,1,120,6.78,144,"1440 x 3200",3,50,16,0,0
+352,"Xiaomi Redmi Note 10 JE 5G","Xiaomi",11499,74,"Android","Single Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2",4,64,4800,1,18,6.5,90,"1080 x 2400",3,48,8,1,1024
+353,"Motorola Edge 40 Pro 5G","Motorola",79990,92,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",12,256,4600,1,125,6.67,165,"1080 x 2400",3,50,60,0,0
+355,"Xiaomi Redmi Note 11","Xiaomi",12990,76,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.4",4,64,5000,1,33,6.43,90,"1080 x 2400",4,50,13,1,512
+357,"Xiaomi Redmi Note 12T Pro","Xiaomi",18499,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","3.1",8,128,5080,1,67,6.51,144,"1080 x 2460",3,64,16,1,1024
+358,"OnePlus Nord N30 5G","OnePlus",24990,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",8,128,5000,1,67,6.72,120,"1080 x 2400",3,108,16,1,1024
+359,"Realme C56","Realme",12990,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.2",4,64,5000,1,67,6.74,120,"1080 x 2400",2,50,16,1,1024
+360,"Nothing Phone 2 (12GB RAM + 512GB)","Nothing",54999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",12,512,4700,1,45,6.7,120,"1080 x 2412",2,50,32,0,0
+361,"Asus Zenfone 10","Asus",70990,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",8,128,4300,1,30,5.92,144,"1080 x 2400",2,50,32,0,0
+362,"iQOO Neo 8 Pro","iQOO",38990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","3.35",16,256,4880,1,120,6.78,144,"1260 x 2800",2,50,16,0,0
+364,"Realme GT Neo 5 (240W)","Realme",39999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",16,256,4600,1,240,6.74,144,"1240 x 2772",3,50,16,0,0
+365,"Lava Blaze 5G (6GB RAM + 128GB)","Lava",11999,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",6,128,5000,0,0,6.5,90,"1600 x 720",3,50,8,1,1024
+366,"Poco F5 Pro","Poco",36999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",8,256,5160,1,67,6.67,120,"1440 x 3200",3,64,16,0,0
+367,"Xiaomi Redmi Note 12 Turbo","Xiaomi",23999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.91",8,256,5000,1,67,6.67,120,"1080 x 2400",3,64,16,0,0
+368,"Honor X9a","Honor",27999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.2",8,256,5100,1,40,6.67,120,"1080 x 2400",3,64,16,0,0
+369,"Samsung Galaxy S23 Plus","Samsung",94999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.36",8,256,4700,1,45,6.6,120,"1080 x 2340",3,50,12,0,0
+370,"Vivo T1 44W (6GB RAM + 128GB)","Vivo",15999,79,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",6,128,5000,1,44,6.44,0,"1080 x 2408",3,50,16,1,1024
+372,"Apple iPhone 11 (128GB)","Apple",44999,75,"iOS","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"A13","6","2.65",4,128,3110,0,0,6.1,0,"828 x 1792",2,12,12,0,0
+374,"Realme 11 4G","Realme",14990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Helio","8","2.2",8,128,5000,1,67,6.4,90,"1080 x 2400",2,108,16,1,1024
+375,"Xiaomi Redmi Note 12 Pro (8GB RAM + 128GB)","Xiaomi",23323,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.6",8,128,5000,1,67,6.67,120,"1080 x 2400",3,50,16,0,0
+376,"Infinix Hot 30i (4GB RAM+ 64GB)","Infinix",7999,71,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,1,10,6.6,90,"720 x 1612",2,50,8,1,1024
+377,"Itel P40","Itel",6799,61,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Spreadtrum","8","1.6",4,64,6000,1,18,6.6,0,"720 x 1612",2,13,5,1,512
+378,"Xiaomi Redmi Note 11 Pro 5G","Xiaomi",17990,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2.2",6,64,5000,1,67,6.67,120,"1080 x 2400",3,108,16,1,0
+379,"Samsung Galaxy S23 (8GB RAM + 256GB)","Samsung",79999,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.36",8,256,3900,1,25,6.1,120,"1080 x 2340",3,50,12,0,0
+380,"Tecno Pova 5 Pro","Tecno",17999,78,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.2",8,256,6000,1,55,6.78,120,"1080 x 2460",2,108,16,1,1024
+381,"Lava Agni 3 5G","Lava",24990,76,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","",8,128,5000,1,67,6.67,120,"1080 x 2460",3,64,32,1,1024
+382,"Vivo Y22 (4GB RAM + 128GB)","Vivo",14499,73,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,128,5000,1,18,6.55,0,"720 x 1612",2,50,8,1,1024
+383,"Oppo A78 4G","Oppo",18990,81,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Snapdragon","8","2.4",8,128,5000,1,67,6.43,90,"1080 x 2400",2,50,8,1,1024
+384,"Tecno Spark Go 2023 (4GB RAM + 64GB)","Tecno",7999,65,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","4","2",4,64,5000,1,10,6.56,0,"720 x 1600",2,13,5,1,256
+385,"Apple iPhone 14 Pro Max (1TB)","Apple",172990,87,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","3.46",6,1024,4323,1,0,6.7,120,"1290 x 2796",3,48,12,0,0
+386,"Vivo Y100A","Vivo",23899,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,128,4500,1,44,6.38,90,"1080 x 2400",3,64,16,1,0
+387,"OPPO A77s","OPPO",16270,76,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",8,128,5000,1,33,6.56,90,"720 x 1600",2,50,8,1,0
+388,"Vivo V27e","Vivo",22999,84,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2.2",8,128,4600,1,66,6.62,120,"1080 x 2400",3,64,32,1,0
+389,"Nokia N73 5G","Nokia",46999,92,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","3",12,256,6000,1,65,6.9,120,"1400 x 3200",5,200,32,1,0
+390,"OnePlus 10R 5G (12GB RAM + 256GB)","OnePlus",35990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.85",12,256,5000,1,80,6.7,120,"1080 x 2412",3,50,16,0,0
+391,"Vivo Y16","Vivo",9999,65,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",3,32,5000,1,10,6.51,0,"720 x 1600",2,13,5,1,0
+392,"Motorola Moto G82 5G","Motorola",21899,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",6,128,5000,1,30,6.6,120,"1080 x 2400",3,50,16,1,1024
+393,"Realme Narzo 50 5G (4GB RAM + 64GB)","Realme",13999,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",4,64,5000,1,33,6.6,90,"1080 x 2400",3,48,16,1,1024
+394,"Samsung Galaxy A33 5G","Samsung",25499,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.4",6,128,5000,1,25,6.4,90,"1080 x 2400",4,48,13,1,1024
+395,"OnePlus 8 Pro (12GB RAM + 256GB)","OnePlus",43990,90,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.84",12,256,4510,1,0,6.78,120,"1440 x 3168",4,48,16,0,0
+396,"Vivo T3x 5G","Vivo",17999,71,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","",6,128,5000,1,44,6.67,120,"1080 x 2408",3,64,8,1,1024
+397,"iKall K555 New","iKall",3999,41,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Quad","4","1.3",2,16,3000,0,0,2.8,0,"240 x 360",1,2,2,1,64
+398,"Tecno Spark 10C","Tecno",9888,72,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","8","2",8,128,5000,1,18,6.6,90,"720 x 1612",2,16,8,1,0
+399,"Nokia C32","Nokia",8987,68,"Android","Dual Sim, 3G, 4G, Wi-Fi",0,0,0,"Unisoc","8","1.6",4,64,5000,0,0,6.52,0,"720 x 1600",2,50,8,1,256
+400,"Xiaomi Redmi Note 11 (6GB RAM + 128GB)","Xiaomi",14405,80,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.4",6,128,5000,1,33,6.43,90,"1080 x 2400",4,50,13,1,512
+401,"Tecno Phantom X2","Tecno",36999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3.05",8,256,5160,1,45,6.8,120,"1080 x 2400",3,64,32,0,0
+402,"Realme Narzo 60","Realme",12999,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2.05",4,64,4500,1,33,6.59,90,"1080 x 2460",3,64,16,1,1024
+403,"Realme C30s","Realme",6699,58,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","8","1.6",2,32,5000,1,10,6.5,0,"720 x 1600",1,8,5,1,1024
+404,"Realme 9i 5G (6GB RAM + 128GB)","Realme",16999,78,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",6,128,5000,1,18,6.6,90,"1080 x 2408",3,50,8,1,1024
+405,"iQOO Neo 6 SE 5G","iQOO",22990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","3.2",8,128,4700,1,80,6.62,120,"1080 x 2400",3,64,16,0,0
+407,"Oppo K11 Pro 5G","Oppo",29990,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.84",8,128,5000,1,80,6.62,120,"1080 x 2400",3,50,16,0,0
+408,"Samsung Galaxy S22 FE 5G","Samsung",51999,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","",8,128,4200,1,33,6.4,120,"1080 x 2400",3,12,32,0,0
+410,"Vivo V23 Pro 5G","Vivo",31920,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","3",8,128,4300,1,44,6.56,90,"1080 x 2376",3,108,50,0,0
+411,"Samsung Galaxy A82 5G","Samsung",39990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.96",6,128,4500,1,25,6.71,120,"1440 x 3200",3,64,10,1,1024
+412,"Xiaomi Redmi Note 15 Pro","Xiaomi",24990,76,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","",8,256,5000,1,150,6.74,165,"1080 x 2400",3,108,32,0,0
+413,"Vivo S16","Vivo",29990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",8,128,4600,1,66,6.78,120,"1080 x 2400",3,64,50,0,0
+414,"Samsung Galaxy A34 5G (8GB RAM + 256GB)","Samsung",32999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.6",8,256,5000,1,25,6.6,120,"1080 x 2340",3,48,13,1,1024
+415,"Nokia C31","Nokia",6999,62,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","8","1.6",3,32,5050,1,10,6.74,0,"720 x 1600",3,13,5,1,256
+416,"Xiaomi Mi 11X","Xiaomi",22490,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","3.2",6,128,4520,1,33,6.67,120,"1080 x 2400",3,48,20,0,0
+417,"Xiaomi Redmi Note 10 Pro (6GB RAM + 128GB)","Xiaomi",15990,81,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.3",6,128,5020,1,33,6.67,120,"1080 x 2400",4,64,16,1,512
+418,"Motorola Moto G82 (8GB RAM + 128GB)","Motorola",21499,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",8,128,5000,1,30,6.6,120,"1080 x 2400",3,50,16,1,1024
+421,"Nubia Red Magic 8 Pro Plus","Nubia",60999,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",12,256,5000,1,165,6.8,120,"1116 x 2480",3,50,16,0,0
+422,"Vivo V25 Pro (12GB RAM + 256GB)","Vivo",30794,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","3",12,256,4830,1,66,6.56,120,"1080 x 2376",3,64,32,0,0
+423,"Samsung Galaxy F23 5G","Samsung",15999,78,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",4,128,5000,1,25,6.6,120,"1080 x 2408",3,50,8,1,1024
+424,"Motorola Moto X40","Motorola",39999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",8,128,4600,1,125,6.7,165,"1080 x 2400",3,50,60,0,0
+425,"OPPO Reno 9 5G","OPPO",28499,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.4",8,256,4500,1,67,6.7,120,"1080 x 2412",2,64,32,0,0
+426,"Google Pixel 6 Pro","Google",50999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Google","8","2.8",12,128,5003,1,30,6.71,120,"1440 x 3120",3,50,11,0,0
+427,"OnePlus Clover","OnePlus",14999,69,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","1.8",4,64,6000,1,18,6.52,0,"720 x 1560",3,13,8,1,0
+428,"Infinix Zero 20","Infinix",15999,87,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2.2",8,128,4500,1,45,6.7,90,"1080 x 2400",3,108,60,1,2048
+429,"Motorola Moto Edge 40 Lite 5G","Motorola",19999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,128,4020,1,33,6.28,120,"1080 x 2408",2,64,32,1,1024
+430,"Vivo Y36 4G","Vivo",16999,80,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",8,128,5000,1,44,6.64,90,"1080 x 2388",2,50,16,1,1024
+431,"Samsung Galaxy S20 Ultra 5G","Samsung",99999,96,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.73",12,128,5000,1,45,6.9,0,"1440 x 3200",4,108,40,1,1024
+432,"Realme GT Neo 3T","Realme",34999,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","3.2",6,128,5000,1,80,6.62,120,"1080 x 2400",3,64,16,0,0
+433,"Google Pixel 3a","Google",13999,66,"Android","Single Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Qualcomm","8","2",4,64,3000,1,18,5.6,0,"1080 x 2220",1,12,8,0,0
+434,"Poco F5 (12GB RAM + 256GB)","Poco",30999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2.91",12,256,5000,1,67,6.67,120,"1080 x 2400",3,64,16,0,0
+435,"Samsung Galaxy S25 Ultra","Samsung",124990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi",1,0,0,"Snapdragon","8","",12,256,5100,1,65,6.83,144,"1800 x 3440",4,200,60,0,0
+436,"OPPO Reno 11","OPPO",34990,76,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Octa","8","",8,256,5000,1,150,6.78,120,"1080 x 2412",3,64,32,0,0
+437,"Honor X9 5G","Honor",16999,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",8,128,4800,1,66,6.81,0,"1080 x 2388",3,48,16,0,0
+438,"Vivo X90 Pro Plus 5G","Vivo",94999,95,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",12,256,4700,1,80,6.78,120,"1440 x 3200",4,50,32,0,0
+439,"Vivo X80 Pro 5G","Vivo",59890,92,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3",12,256,4700,1,80,6.78,120,"1440 x 3200",4,50,32,0,0
+440,"Xiaomi Redmi Note 13 Pro 5G","Xiaomi",17990,78,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","2",6,128,5000,1,67,6.67,120,"1080 x 2460",3,108,16,0,0
+441,"Realme 10 5G","Realme",14499,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",8,128,5000,1,33,6.6,90,"1080 x 2408",3,50,8,1,1024
+443,"Apple iPhone 13 (256GB)","Apple",71999,79,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","3.22",4,256,3240,1,0,6.1,0,"1170 x 2532",2,12,12,0,0
+445,"Xiaomi Redmi Note 15 Pro Plus","Xiaomi",35990,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","",8,256,5000,1,240,6.78,165,"1080 x 2400",3,200,60,0,0
+446,"Vivo V23 5G","Vivo",29985,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.5",8,128,4200,1,44,6.44,90,"1080 x 2400",3,64,50,0,0
+448,"Xiaomi Redmi 12 5G","Xiaomi",12999,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.2",4,128,5000,1,18,6.79,90,"1080 x 2460",2,50,5,1,0
+449,"Xiaomi Redmi Note 10S (8GB RAM + 128GB)","Xiaomi",13999,82,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2.05",8,128,5000,1,33,6.43,0,"1080 x 2400",4,64,13,1,512
+450,"Xiaomi Redmi A2 Plus","Xiaomi",7999,66,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.2",4,64,5000,1,10,6.52,0,"720 x 1600",2,8,5,1,1024
+451,"Xiaomi Redmi 12C (4GB RAM + 128GB)","Xiaomi",9499,72,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,128,5000,0,0,6.71,0,"720 x 1650",2,50,5,1,1024
+453,"Samsung Galaxy M54 5G","Samsung",37999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.4",8,128,6000,1,25,6.7,120,"1080 x 2400",3,108,32,1,1024
+454,"Samsung Galaxy A53 5G (8GB RAM + 128GB)","Samsung",27499,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.4",8,128,5000,1,25,6.5,120,"1080 x 2400",4,64,32,1,1024
+455,"OPPO Reno7 Z 5G","OPPO",17999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",8,128,4500,1,33,6.43,0,"1080 x 2400",3,64,16,1,0
+456,"Vivo Y02","Vivo",8499,54,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio,","8","",3,32,5000,1,10,6.51,0,"720 x 1600",1,8,5,1,1024
+457,"Samsung Galaxy S20 FE","Samsung",26879,86,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Exynos","8","2.73",8,128,4500,1,25,6.5,120,"1080 x 2400",3,12,32,1,1024
+458,"iKall K333 4G","iKall",3799,34,"Android","Dual Sim, 3G, 4G, VoLTE",0,0,0,"Helio","","",2,16,3000,0,0,2.8,0,"240 x 360",1,2,2,1,128
+459,"Samsung Galaxy M53 5G","Samsung",32999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",6,128,5000,1,25,6.7,120,"1080 x 2400",4,108,32,1,1024
+460,"Nokia G310 5G","Nokia",16999,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",8,128,5000,1,33,6.5,90,"720 x 1612",3,50,16,1,1000
+461,"Nokia G42 5G","Nokia",20990,74,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",4,128,5000,1,20,6.56,90,"720 x 1612",3,50,8,1,1024
+462,"Vivo Y16 (4GB RAM + 128GB)","Vivo",12679,69,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,128,5000,1,10,6.51,0,"720 x 1600",2,13,5,1,0
+463,"Nubia Z50S Pro","Nubia",43999,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",12,256,5000,1,80,6.78,120,"1260 x 2800",3,50,16,0,0
+464,"iQOO Z9","iQOO",19990,76,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","",8,128,5000,1,45,6.67,120,"1080 x 2412",3,64,16,1,1024
+465,"Realme 9i","Realme",11999,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",4,64,5000,1,33,6.6,90,"1080 x 2412",3,50,16,1,1024
+466,"iKall S1","iKall",9990,66,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"unisoc,","4","1.6",6,128,6000,0,0,6.8,0,"720 x 1600",3,13,8,1,128
+467,"Vivo Y12a","Vivo",9999,65,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2",3,32,5000,0,0,6.51,0,"720 x 1600",2,13,8,1,0
+468,"Nokia X200","Nokia",24999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",8,128,5000,1,33,6.7,90,"1080 x 2400",3,50,32,1,1000
+469,"Xiaomi Redmi 10","Xiaomi",9499,71,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",4,64,6000,1,18,6.7,0,"720 x 1600",2,50,5,1,512
+470,"OPPO A16","OPPO",10990,69,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,0,0,6.52,0,"720 x 1600",3,13,8,1,0
+471,"Vivo V29 Lite","Vivo",31990,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,128,5000,1,44,6.78,120,"1080 x 2400",3,64,16,1,0
+472,"OPPO Reno 6","OPPO",28490,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2",8,128,4300,1,65,6.43,90,"1080 x 2400",3,64,32,0,0
+473,"Lava Blaze 2 4G","Lava",8999,70,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","8","2",6,128,5000,1,18,6.5,90,"720 x 1600",2,13,8,1,1024
+474,"OnePlus Ace 2V","OnePlus",26990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","3.05",12,256,5000,1,80,6.74,120,"1240 x 2772",3,64,16,0,0
+475,"Infinix Note 30","Infinix",17990,82,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.2",8,128,5000,1,80,6.78,120,"1080 x 2460",3,64,16,1,1024
+477,"Motorola Rizr Rollable","Motorola",159990,77,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","",12,512,3500,1,65,5.0,120,"1080 x 2400",2,50,32,0,0
+478,"Google Pixel 8 Pro","Google",89990,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Google","8","",12,256,4950,1,27,6.7,120,"1344 x 2992",3,64,12,0,0
+479,"Samsung Galaxy M13 5G (4GB RAM + 64GB)","Samsung",12699,71,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",4,64,5000,1,15,6.5,90,"720 x 1600",2,50,5,1,1024
+480,"Vivo Y02 (2GB RAM + 32GB)","Vivo",7999,53,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio,","8","",2,32,5000,1,10,6.51,0,"720 x 1600",1,8,5,1,1024
+481,"Letv Y2 Pro","Letv",6999,53,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc,","8","",4,32,4000,0,0,6.5,0,"720 x 1560",3,13,8,0,0
+482,"Vivo T2 Pro 5G","Vivo",29990,76,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","",8,128,4500,1,67,6.44,90,"1080 x 2408",3,50,16,1,1024
+483,"Samsung Galaxy A23 5G (8GB RAM + 128GB)","Samsung",23999,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,128,5000,1,25,6.6,120,"1080 x 2408",4,50,8,1,1024
+484,"Motorola Edge 30 Pro 5G","Motorola",34999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3",8,128,4800,1,68,6.7,144,"1080 x 2400",3,50,60,0,0
+485,"Lava Agni 5G","Lava",15990,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",8,128,5000,1,30,6.78,90,"1080 x 2460",4,64,16,1,1024
+486,"Oppo Reno 8T 4G","Oppo",19999,86,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2.2",8,256,5000,1,33,6.43,120,"1080 x 2400",3,100,32,1,1024
+487,"Xiaomi Mi 11i 5G","Xiaomi",20799,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.5",6,128,5160,1,67,6.67,120,"2400 x 1080",3,108,16,1,1024
+488,"itel P36","itel",6490,48,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Spreadtrum","4","1.3",1,16,5000,0,0,6.5,0,"1600 x 720",2,8,8,0,0
+489,"Realme 10s","Realme",12999,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",8,128,5000,1,33,6.6,90,"1080 x 2408",2,50,8,1,1024
+490,"Vivo Y3 (4GB RAM + 128GB)","Vivo",12990,71,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,128,5000,1,0,6.35,0,"720 x 1544",3,13,16,1,256
+491,"Honor 70 5G (8GB RAM + 256GB)","Honor",30990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.5",8,256,4800,1,66,6.67,120,"1080 x 2400",3,54,32,0,0
+492,"Poco M6 Pro 5G","Poco",14990,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.2",6,128,5000,1,33,6.79,120,"1080 x 2460",3,50,16,1,0
+493,"Nothing Phone 1 (12GB RAM + 256GB)","Nothing",34999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.5",12,256,4500,1,33,6.55,120,"1080 x 2400",2,50,16,0,0
+494,"Samsung Galaxy F64 5G","Samsung",24999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.4",6,128,7000,1,33,6.7,0,"1080 x 2400",4,64,32,1,1024
+495,"Xiaomi Redmi A2 (2GB RAM + 64GB)","Xiaomi",6499,63,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.2",2,64,5000,1,10,6.52,0,"720 x 1600",2,8,5,1,512
+496,"Asus ROG Phone 7","Asus",74999,91,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",16,512,6000,1,65,6.78,165,"1080 x 2448",3,50,32,0,0
+497,"Motorola Moto E40","Motorola",7645,71,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","8","1.8",4,64,5000,0,0,6.5,90,"720 x 1600",3,48,8,1,1024
+498,"Vivo Y75 4G","Vivo",19990,82,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.05",8,128,4050,1,44,6.44,0,"1080 x 2400",3,50,44,1,1024
+501,"OnePlus Ace Racing Edition 5G","OnePlus",22990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.85",8,128,5000,1,0,6.59,120,"1080 x 2412",3,64,16,0,0
+502,"Samsung Galaxy A24 5G","Samsung",24999,74,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Octa","8","",6,128,5000,1,25,6.5,90,"1080 x 2340",3,50,13,1,1024
+503,"Motorola Edge 30 5G (8GB RAM + 128GB)","Motorola",24999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.5",8,128,4020,1,33,6.5,144,"1080 x 2400",3,50,32,0,0
+504,"Xiaomi Redmi 10A (4GB RAM + 64GB)","Xiaomi",8499,66,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,64,5000,0,0,6.53,0,"720 x 1600",1,13,5,1,512
+505,"Tecno Pova Neo 3","Tecno",14990,69,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,128,7000,1,18,6.82,90,"720 x 1640",2,16,8,1,512
+506,"Realme 9 5G (6GB RAM + 128GB)","Realme",20490,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",6,128,5000,1,18,6.5,90,"1080 x 2400",3,48,16,1,1024
+507,"Nokia C32 (4GB RAM + 128 GB)","Nokia",9499,69,"Android","Dual Sim, 3G, 4G, Wi-Fi",0,0,0,"Unisoc","8","1.6",4,128,5000,0,0,6.52,0,"720 x 1600",2,50,8,1,256
+508,"Realme Narzo 50 Pro 5G","Realme",19999,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.5",6,128,5000,1,33,6.4,90,"1080 x 2400",3,48,16,1,256
+509,"Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 256GB)","Xiaomi",25980,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"","8","2.2",8,256,5000,1,67,6.67,120,"1080 x 2400",3,108,16,1,1024
+510,"itel S16 Pro","itel",6990,57,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Quad","4","1.3",2,32,4000,0,0,6.6,0,"1600 x 720",3,8,8,1,32
+511,"Vivo V23 5G (12GB RAM + 256GB)","Vivo",29815,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.5",12,256,4200,1,44,6.44,90,"1080 x 2400",3,64,50,1,0
+512,"Xiaomi Redmi K70 Pro","Xiaomi",43990,78,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","",8,128,5120,1,150,6.72,144,"1440 x 3200",3,64,32,0,0
+513,"Samsung Galaxy M31","Samsung",18999,81,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Exynos","8","2.3",6,64,6000,1,15,6.4,0,"1080 x 2340",4,64,32,1,512
+514,"Honor 60 SE 5G","Honor",24990,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2",8,128,4300,1,66,6.67,120,"1080 x 2340",3,64,16,0,0
+515,"Samsung Galaxy Note 10 Plus","Samsung",54710,89,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Exynos","8","2.73",12,256,4300,1,45,6.8,0,"1440 x 3040",4,12,10,1,1024
+516,"Xiaomi Redmi Note 11T 5G (6GB RAM + 128GB)","Xiaomi",16499,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.4",6,128,5000,1,33,6.6,90,"1080 x 2400",2,50,16,1,1024
+517,"OnePlus Nord CE 2 Lite 5G (8GB RAM + 256GB)","OnePlus",24999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,256,5000,1,33,6.59,120,"1080 x 2412",3,64,16,1,1024
+520,"Xiaomi Mi 11 Lite NE 5G","Xiaomi",20999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.4",6,128,4250,1,33,6.55,90,"1080 x 2400",3,64,20,1,0
+521,"Xiaomi Redmi Note 8 2021","Xiaomi",9990,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2",4,64,4000,1,18,6.3,0,"1080 x 2340",4,48,13,1,0
+523,"Nubia Redmagic 8s Pro","Nubia",45990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.36",8,128,6000,1,165,6.8,120,"1116 x 2480",3,50,16,0,0
+524,"OnePlus 9 Pro (12GB RAM + 256GB)","OnePlus",47990,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.84",12,256,4500,1,65,6.7,120,"1440 x 3216",4,48,16,0,0
+525,"itel S23 (4GB RAM +128 GB)","itel",8498,70,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Octa","8","1.6",4,128,5000,1,10,6.6,90,"1600 x 720",2,50,8,1,512
+526,"OnePlus Nord CE 5 5G","OnePlus",29990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.91",8,128,5000,1,100,6.78,144,"1080 x 2412",3,64,32,1,1024
+527,"Tecno Spark 12","Tecno",14990,81,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2.2",8,128,5000,1,44,6.7,120,"1080 x 2400",2,64,16,1,0
+528,"Motorola Moto G74","Motorola",19990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.6",8,128,5000,1,44,6.56,120,"1080 x 2400",2,64,32,1,1024
+530,"Vivo V27 Pro (8GB RAM + 256GB)","Vivo",39999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","3.1",8,256,4600,1,66,6.78,120,"1080 x 2400",3,50,50,0,0
+531,"Realme 10 Pro Plus (8GB RAM + 256GB)","Realme",31900,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.6",8,256,5000,1,67,6.7,120,"1080 x 2412",3,108,16,0,0
+532,"Samsung Galaxy S21","Samsung",69999,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.9",8,128,4000,1,25,6.2,120,"1080 x 2400",3,64,10,0,0
+533,"Lava Blaze 5G","Lava",10999,73,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",4,128,5000,0,0,6.5,90,"1600 x 720",3,50,8,1,1024
+534,"Xiaomi Redmi Note 11R","Xiaomi",12990,73,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.2",4,128,5000,1,18,6.58,90,"1080 x 2400",2,13,5,1,512
+535,"Apple iPhone 14 (256GB)","Apple",79999,81,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","3.22",6,256,3279,1,0,6.1,0,"1170 x 2532",2,12,12,0,0
+536,"Vivo U3","Vivo",9990,72,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2",4,64,5000,1,18,6.53,0,"1080 x 2340",3,16,16,1,256
+537,"Realme C30","Realme",5999,58,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","8","1.82",2,32,5000,0,0,6.5,0,"720 x 1600",1,8,5,1,1024
+538,"Vivo X90 (12GB RAM + 256GB)","Vivo",63999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","3.05",12,256,4810,1,120,6.78,120,"1260 x 2800",3,50,32,0,0
+539,"Xiaomi Redmi K20 Pro Signature Edition","Xiaomi",480000,88,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Snapdragon","8","2.8",8,256,4000,1,27,6.39,0,"1080 x 2340",3,48,20,0,0
+540,"Vivo T1 44W","Vivo",14499,77,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",4,128,5000,1,44,6.44,0,"1080 x 2408",3,50,16,1,1024
+541,"iQOO Z6 Pro 5G","iQOO",23999,78,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.4",6,128,4700,1,66,6.44,90,"1080 x 2404",3,64,16,0,0
+542,"Tecno Spark 11","Tecno",11990,79,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2.2",8,128,5000,1,33,6.67,120,"1080 x 2400",2,50,8,1,0
+543,"Vivo Y93","Vivo",18000,62,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,32,4030,0,0,6.2,0,"1520 x 720",2,13,8,1,256
+544,"Poco X4 Pro 5G (8GB RAM + 128GB)","Poco",17999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2.2",8,128,5000,1,67,6.67,120,"1080 x 2400",3,64,16,1,1024
+545,"OnePlus Nord CE 4 5G","OnePlus",23990,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.7",8,128,5000,1,80,6.73,120,"1080 x 2412",3,64,16,1,1024
+546,"POCO M4 Pro 4G","POCO",12199,77,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2.05",6,64,5000,1,33,6.43,90,"1080 x 2400",3,64,16,1,1024
+547,"Xiaomi Poco F1 (6GB RAM + 128GB)","Xiaomi",11749,78,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.8",6,128,4000,1,0,6.18,0,"1080 x 2246",2,12,20,1,256
+548,"Realme 9 Pro Plus 5G (8GB RAM + 256GB)","Realme",23420,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.5",8,256,4500,1,60,6.4,90,"1080 x 2400",3,50,16,0,0
+549,"Infinix Smart 7 HD","Infinix",6199,61,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Spreadtrum","8","1.6",2,64,5000,1,10,6.6,0,"720 x 1612",2,8,5,1,1024
+551,"Samsung Galaxy A76","Samsung",42990,91,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.91",8,128,5000,1,45,6.78,120,"1080 x 2412",4,108,32,1,1024
+552,"Tecno Spark 10 5G","Tecno",12240,74,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.2",4,64,5000,1,18,6.56,90,"720 x 1612",2,50,8,1,1024
+553,"Apple iPhone 16 Pro","Apple",124990,82,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","",8,128,3620,1,50,6.4,144,"1200 x 2600",3,200,32,0,0
+554,"Motorola Moto G63 5G","Motorola",16990,74,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Octa","8","",6,128,5000,1,33,6.67,120,"1080 x 2400",3,64,16,1,1024
+555,"Infinix Hot 20 (6GB RAM+ 128GB)","Infinix",13499,78,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",6,128,5000,1,18,6.6,120,"1080 x 2408",2,50,8,1,1024
+557,"iQOO 11 (16GB RAM + 256GB)","iQOO",59990,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",16,256,5000,1,120,6.78,144,"1440 x 3200",3,50,16,0,0
+559,"iQOO Neo 8","iQOO",28999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","3.2",12,256,4880,1,120,6.78,144,"1260 x 2800",2,50,16,0,0
+560,"Realme 11","Realme",18990,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.2",8,128,5000,1,33,6.43,90,"1080 x 2400",2,64,8,1,1024
+561,"Tecno Pova 3","Tecno",10689,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,64,7000,1,33,6.95,90,"1080 x 2460",3,50,8,1,256
+562,"Tecno Camon 20 Pro 4G","Tecno",16990,82,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2.2",8,256,5000,1,33,6.67,120,"1080 x 2400",3,64,32,0,0
+563,"Sony Xperia 5V","Sony",79990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",8,128,5000,1,33,6.3,120,"1080 x 2520",2,12,12,1,0
+564,"iQOO 9 Pro 5G","iQOO",44990,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3",8,256,4700,1,120,6.78,120,"1440 x 3200",3,50,16,0,0
+565,"Lava Yuva 2 Pro","Lava",7999,65,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,1,10,6.5,0,"1600 x 720",3,13,5,1,256
+566,"Apple iPhone 14 Mini","Apple",69990,70,"iOS","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Bionic","","",6,128,3500,1,0,5.42,0,"1080 x 2340",2,12,12,0,0
+568,"Xiaomi Redmi Note 12 4G (6GB RAM + 128GB)","Xiaomi",15999,80,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.8",6,128,5000,1,33,6.67,120,"1080 x 2400",3,50,13,1,1024
+571,"iQOO Neo 7 (12GB RAM + 256GB)","iQOO",31999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","3.1",12,256,5000,1,120,6.78,120,"1080 x 2400",3,64,16,0,0
+572,"Redmi Note 12 Pro Speed Edition","Redmi",19999,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.4",6,128,5000,1,67,6.67,120,"1080 x 2400",3,108,16,0,0
+573,"Nokia X50 5G","Nokia",34999,76,"Android","Single Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","","",6,64,6000,1,33,6.81,0,"1080 x 2400",4,108,32,1,0
+574,"OPPO A74 5G","OPPO",17990,77,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2",6,128,5000,1,18,6.5,90,"1080 x 2400",3,48,8,1,0
+575,"Meizu 20","Meizu",35990,85,"Flyme","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",12,128,4700,1,67,6.55,120,"1080 x 2400",3,50,32,0,0
+578,"Xiaomi Civi 3","Xiaomi",28990,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","3.1",12,256,4500,1,67,6.55,120,"1080 x 2400",3,50,32,0,0
+579,"Tecno Phantom X2 Pro","Tecno",44999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3.05",12,256,5160,1,45,6.8,120,"1080 x 2400",3,50,32,0,0
+580,"OnePlus Ace 2","OnePlus",34999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",12,256,5000,1,100,6.74,120,"1240 x 2772",3,50,16,0,0
+581,"Xiaomi Redmi K60","Xiaomi",29990,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",8,128,5500,1,67,6.67,120,"1440 x 3200",3,64,16,0,0
+582,"Motorola Edge 40 Fusion","Motorola",42990,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",8,128,4500,1,68,6.67,144,"1080 x 2400",3,50,32,0,0
+583,"Google Pixel 8","Google",53990,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Google","8","",8,128,4485,1,24,6.17,120,"1080 x 2400",2,50,10,0,0
+585,"Apple iPhone 14 Plus (256GB)","Apple",89999,82,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","3.22",6,256,4325,1,0,6.7,0,"1284 x 2778",2,12,12,0,0
+586,"Motorola Moto S30 Pro","Motorola",23990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.9",8,128,4400,1,68,6.55,144,"1080 x 2460",3,50,32,0,0
+587,"Poco M6 Pro","Poco",12990,82,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2.2",8,128,5100,1,100,6.73,120,"1080 x 2400",3,108,32,1,1024
+588,"iKall S1 Plus","iKall",9999,66,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"unisoc,","4","1.6",6,128,6000,0,0,6.8,0,"720 x 1600",3,13,8,1,128
+589,"Vivo Y22s","Vivo",14990,77,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",8,128,5000,1,18,6.55,90,"1612 x 720",2,50,8,1,1024
+590,"Vivo Y02s","Vivo",8990,61,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",3,32,5000,1,10,6.51,0,"720 x 1600",1,8,5,1,0
+592,"Motorola Moto X30 Pro","Motorola",41990,91,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",8,128,4450,1,125,6.67,144,"1080 x 2400",3,200,60,0,0
+593,"Realme C30s (4GB RAM + 64GB)","Realme",8150,62,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","8","1.6",4,64,5000,1,10,6.5,0,"720 x 1600",1,8,5,1,1024
+594,"Vivo S16 Pro","Vivo",35499,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3.1",8,256,4600,1,66,6.78,120,"1080 x 2400",3,50,50,0,0
+595,"Vivo T2x 5G (2022)","Vivo",18990,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","3",8,128,6000,1,44,6.58,120,"1080 x 2408",2,50,16,0,0
+596,"Sony Xperia L5 5G","Sony",15990,73,"Android","Single Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2.3",4,64,4000,1,0,6.2,0,"720 x 1680",3,13,8,1,512
+597,"Samsung Galaxy M13","Samsung",12980,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Exynos","8","2",6,128,6000,1,15,6.6,0,"1080 x 2400",3,50,8,1,1024
+598,"Xiaomi Redmi 10 Power","Xiaomi",12499,77,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.4",8,128,6000,1,18,6.7,0,"720 x 1650",2,50,5,1,0
+599,"Realme Narzo 50 (6GB RAM + 128GB)","Realme",12999,77,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",6,128,5000,1,33,6.6,120,"1080 x 2412",3,50,16,1,256
+600,"Samsung Galaxy A03 Core","Samsung",6899,54,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","4","1.6",2,32,5000,0,0,6.5,0,"720 x 1600",1,8,5,1,1024
+601,"OPPO F21s Pro 4G","OPPO",18199,82,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",8,128,4500,1,33,6.43,90,"1080 x 2400",3,64,32,1,512
+602,"Realme 9 Pro Plus 5G","Realme",24990,78,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.5",6,128,4500,1,60,6.4,90,"1080 x 2400",3,50,16,0,0
+603,"Samsung Galaxy M52 5G (8GB RAM + 128GB)","Samsung",25994,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.4",8,128,5000,1,25,6.7,120,"1080 x 2400",3,64,32,1,1024
+604,"Xiaomi Redmi A1 Plus","Xiaomi",6299,60,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","4","2",2,32,5000,1,10,6.52,0,"720 x 1600",2,8,5,1,512
+605,"OPPO F19s","OPPO",19780,79,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2",6,128,5000,1,33,6.43,0,"1080 x 2400",3,48,16,1,256
+607,"Xiaomi Redmi A1","Xiaomi",6790,59,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","4","2",2,32,5000,1,10,6.52,0,"720 x 1600",2,8,5,1,512
+608,"Samsung Galaxy M21 2021","Samsung",11994,76,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Exynos","8","2.3",4,64,6000,1,15,6.4,0,"1080 x 2340",3,48,20,1,512
+609,"Realme 9 Pro 5G","Realme",18999,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",6,128,5000,1,33,6.6,120,"1080 x 2412",3,64,16,1,256
+610,"Oukitel WP19","Oukitel",29990,84,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2",8,256,21000,1,33,6.78,0,"1080 x 2400",3,64,16,1,0
+611,"OPPO F19 Pro Plus 5G","OPPO",29800,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",8,128,4310,1,50,6.43,0,"1080 x 2400",4,48,16,1,256
+612,"iKall K333 Plus","iKall",3799,38,"Android","Dual Sim, 3G, 4G, VoLTE",0,0,0,"Quad","4","1.3",2,16,3000,0,0,2.8,0,"240 x 360",1,2,2,1,128
+613,"Samsung Galaxy A04","Samsung",11999,71,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,1,0,6.5,0,"720 x 1600",2,50,5,1,1024
+614,"Apple iPhone 18 Pro Max","Apple",169990,87,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","10","",12,512,5000,1,80,6.9,165,"1800 x 3200",4,200,32,0,0
+615,"OnePlus 11 5G Marble Odyssey","OnePlus",64999,90,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",16,256,5000,1,100,6.7,120,"1440 x 3216",3,50,16,0,0
+616,"Xiaomi 12 Pro 5G (12GB RAM + 256GB)","Xiaomi",44999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3",12,256,4600,1,120,6.73,120,"1440 x 3200",3,50,32,0,0
+617,"Honor X50 GT","Honor",29999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi",1,0,0,"Snapdragon","8","3",12,256,5000,1,66,6.78,120,"1080 x 2388",3,64,16,0,0
+618,"Samsung Galaxy F13 (4GB RAM + 128GB)","Samsung",11990,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Exynos","8","2",4,128,6000,1,15,6.6,0,"2408 x 1080",3,50,8,1,1024
+619,"OnePlus 13 Pro","OnePlus",70990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Snapdragon","8","",12,256,4800,1,200,6.78,165,"1440 x 3412",3,200,32,0,0
+620,"Motorola Moto G13 (4GB RAM + 64GB)","Motorola",9499,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2",4,64,5000,1,10,6.5,90,"720 x 1600",3,50,8,1,512
+621,"Realme GT 2 (12GB RAM + 256GB)","Realme",33499,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.84",12,256,5000,1,65,6.62,120,"1080 x 2400",3,50,16,0,0
+622,"Samsung Galaxy M35","Samsung",22999,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Octa","8","",8,128,6000,1,0,6.5,0,"1080 x 2400",3,64,32,1,1024
+623,"Vivo S17","Vivo",28990,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.5",8,256,4600,1,80,6.78,120,"1260 x 2800",2,50,50,0,0
+624,"Samsung Galaxy A75 5G","Samsung",44999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","",8,128,5000,1,67,6.7,120,"1080 x 2412",4,108,32,1,1024
+625,"Poco C50 (3GB RAM + 32GB)","Poco",6199,61,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","4","2",3,32,5000,1,10,6.52,0,"720 x 1600",2,8,5,1,512
+627,"Samsung Galaxy A15","Samsung",15990,63,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Octa","8","",6,64,5000,1,0,6.5,0,"720 x 1600",3,48,8,1,1024
+628,"Sony Xperia 10 V","Sony",39999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",6,128,5000,1,21,6.1,0,"1080 x 2520",3,48,8,1,0
+629,"Realme C35 (4GB RAM + 128GB)","Realme",10699,71,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","8","1.8",4,128,5000,1,18,6.6,90,"1080 x 2408",3,50,8,1,1024
+630,"Oppo A98","Oppo",24990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.2",8,256,5000,1,67,6.72,120,"1080 x 2400",3,64,32,1,1024
+631,"OPPO F21s Pro","OPPO",21399,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,128,4500,1,33,6.43,0,"1080 x 2400",3,64,16,1,512
+632,"Nubia Red Magic 7S Pro","Nubia",60990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",12,256,5000,1,135,6.8,120,"1080 x 2400",3,64,8,0,0
+633,"iQOO 9T 5G","iQOO",41999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",8,128,4700,1,120,6.78,120,"1080 x 2400",3,50,16,0,0
+634,"Samsung Galaxy S22 Ultra 5G (12GB RAM + 512GB)","Samsung",110000,94,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3",12,512,5000,1,45,6.8,120,"1440 x 3080",4,108,40,0,0
+635,"Poco F4 5G","Poco",27999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",6,128,4500,1,67,6.67,120,"1080 x 2400",3,64,20,0,0
+636,"Vivo Y01","Vivo",7999,61,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",2,32,5000,0,0,6.51,0,"720 x 1600",1,8,5,1,1024
+637,"Nokia G11 Plus","Nokia",8199,70,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","8","1.6",4,64,5000,1,10,6.52,90,"720 x 1600",2,50,8,1,512
+638,"Samsung Galaxy A32","Samsung",21999,80,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",6,128,5000,1,15,6.4,90,"1080 x 2400",4,64,20,1,1024
+639,"Samsung Galaxy A04s","Samsung",12499,71,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Exynos","8","2",4,64,5000,1,15,6.5,90,"720 x 1600",3,50,5,1,1024
+640,"Sony Xperia Pro-I","Sony",134999,90,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.84",12,512,4500,1,30,6.5,120,"1644 x 3840",3,12,8,1,1024
+641,"Xiaomi Redmi 10C (4GB RAM + 128GB)","Xiaomi",14990,73,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",4,128,6000,1,18,6.7,0,"720 x 1600",2,50,5,1,512
+642,"OPPO F23 Pro Plus 5G","OPPO",27990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.4",8,128,4500,1,65,6.43,90,"1080 x 2460",4,50,16,1,256
+643,"Xiaomi Mi Mix Alpha","Xiaomi",199990,95,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.96",12,512,4050,1,40,7.92,0,"2088 x 2250",3,108,108,0,0
+644,"Motorola Moto G42 5G","Motorola",13990,77,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2",4,64,5000,1,20,6.47,0,"1080 x 2400",3,50,16,1,1024
+645,"OnePlus 10 Pro 5G (12GB RAM + 256GB)","OnePlus",61999,90,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3",12,256,5000,1,80,6.7,120,"1440 x 3216",3,50,32,0,0
+646,"Infinix Note 14 Pro 5G","Infinix",17990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",8,128,5000,1,44,6.78,120,"1080 x 2400",3,108,32,1,2048
+647,"Realme GT Neo 3 5G (12GB RAM + 256GB)","Realme",30645,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.85",12,256,4500,1,150,6.7,120,"1080 x 2412",3,50,16,0,0
+648,"Realme GT Neo2 5G (12GB RAM + 256GB)","Realme",29999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",12,256,5000,1,65,6.62,120,"2400 x 1080",3,64,16,0,0
+649,"Vivo T2 5G (2022)","Vivo",24990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","3.2",8,128,4700,1,80,6.62,120,"1080 x 2400",3,64,16,1,1024
+650,"Xiaomi Redmi Note 12R Pro","Xiaomi",19990,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2",12,256,5000,1,33,6.67,120,"1080 x 2400",2,48,8,0,0
+651,"Honor 70 5G","Honor",39990,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.5",12,512,4800,1,66,6.67,120,"1080 x 2400",3,54,32,0,0
+652,"Xiaomi Mi 11 Lite NE 5G (8GB RAM + 128GB)","Xiaomi",22890,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.4",8,128,4250,1,33,6.55,90,"1080 x 2400",3,64,20,1,0
+653,"Realme C11 2021 (4GB RAM + 64GB)","Realme",8499,61,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"SC9863A,","8","1.6",4,64,5000,0,0,6.52,0,"720 x 1600",1,8,5,1,0
+654,"Vivo X100 Pro Plus","Vivo",79990,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","",12,256,4870,1,120,6.78,120,"1440 x 3200",4,200,32,0,0
+655,"Xiaomi Mi 11T Pro 5G","Xiaomi",31990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.84",8,128,5000,1,120,6.67,120,"1080 x 2400",3,108,16,0,0
+656,"Tecno Pop 7 Pro","Tecno",6499,61,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","4","2",2,64,5000,1,10,6.56,0,"720 x 1612",2,12,5,1,256
+657,"Xiaomi Redmi Note 11S (8GB RAM + 128GB)","Xiaomi",16200,84,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2.05",8,128,5000,1,33,6.43,90,"1080 x 2400",4,108,16,1,512
+658,"Poco X3 Pro","Poco",19999,82,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.96",6,128,5160,1,33,6.67,120,"1080 x 2400",4,48,20,1,0
+659,"Nokia C12","Nokia",5999,58,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","8","1.6",2,64,3000,0,0,6.3,0,"720 x 1600",1,8,5,1,0
+660,"Honor Magic 5 Lite","Honor",31999,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.2",6,128,5100,1,40,6.67,120,"1080 x 2400",3,64,16,0,0
+661,"Realme GT 2 Pro 5G","Realme",49959,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3",8,128,5000,1,65,6.7,120,"1440 x 3216",3,50,32,0,0
+662,"Oppo A56 5G","Oppo",17990,73,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",6,128,5000,0,0,6.5,0,"720 x 1600",2,13,8,1,0
+663,"Huawei Mate 60 Pro","Huawei",99990,76,"Hongmeng","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Octa","8","",8,256,5000,1,66,6.76,144,"1440 x 3200",3,64,13,0,0
+664,"Realme Narzo 50A (4GB RAM + 128GB)","Realme",11204,73,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,128,6000,1,18,6.5,0,"720 x 1600",3,50,8,1,256
+665,"OnePlus 9 Pro","OnePlus",42994,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.84",8,128,4500,1,65,6.7,120,"1440 x 3216",4,48,16,0,0
+666,"Tecno Phantom X","Tecno",21999,84,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.05",8,256,4700,1,33,6.7,90,"1080 x 2340",3,50,48,0,0
+667,"Sony Xperia Ace IV","Sony",19990,80,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Snapdragon","8","2",8,128,5000,1,33,6.5,120,"1080 x 2400",2,50,16,1,1024
+668,"Xiaomi Redmi 20X","Xiaomi",10990,77,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.2",4,128,5000,1,18,6.43,90,"1080 x 2340",4,48,13,1,0
+669,"HTC U20 5G","HTC",15999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.4",8,256,5000,1,18,6.8,0,"1080 x 2400",4,48,32,1,0
+670,"Vivo Y35 5G","Vivo",13999,70,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",4,128,5000,1,15,6.51,0,"720 x 1600",2,13,5,1,1024
+671,"Huawei Mate 30 RS Porsche Design","Huawei",214990,95,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Kirin","8","2.86",12,512,4500,1,0,6.53,0,"1176 x 2400",4,40,32,1,256
+672,"Vivo S17 Pro","Vivo",35990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3.1",8,256,4600,1,80,6.78,120,"1260 x 2800",3,50,50,0,0
+673,"Samsung Galaxy A40","Samsung",17990,69,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Samsung","8","2.2",4,64,3100,1,15,5.9,0,"1080 x 2340",2,16,25,1,512
+674,"Samsung Galaxy A13","Samsung",14479,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Octa","8","2",4,64,5000,1,25,6.6,0,"1080 x 2408",4,50,8,1,1024
+675,"OnePlus 6 (8GB RAM + 128GB)","OnePlus",17990,77,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Snapdragon","8","2.8",8,128,3300,0,0,6.28,0,"1080 x 2280",2,20,16,0,0
+676,"Vivo Y16 (3GB RAM + 64GB)","Vivo",10499,66,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",3,64,5000,1,10,6.51,0,"720 x 1600",2,13,5,1,0
+677,"Tecno Spark 8 Pro","Tecno",8099,72,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,64,5000,1,33,6.8,0,"1080 x 2460",3,48,8,1,0
+678,"Infinix Hot 20 Play","Infinix",7999,67,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,6000,1,18,6.82,90,"720 x 1640",2,13,8,1,256
+680,"Docoss X1","Docoss",888,37,"Android","Dual Sim, 3G, Wi-Fi",0,0,0,"Quad","4","1.2",1,4,1300,0,0,4.0,0,"480 x 854",1,2,0,1,32
+681,"OnePlus Nord N200","OnePlus",16990,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2",4,64,5000,1,18,6.49,90,"1080 x 2400",3,13,16,1,0
+682,"Infinix Note 12i (2022)","Infinix",9999,73,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,64,5000,1,33,6.7,0,"1080 x 2400",3,50,8,1,512
+684,"Realme Q5 5G","Realme",14990,78,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",6,128,5000,1,60,6.6,120,"1080 x 2412",3,50,16,1,0
+685,"Redmi Note 11 Pro 2023","Redmi",18999,81,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.3",6,128,5000,1,67,6.67,120,"1080 x 2400",4,108,16,1,1024
+686,"Tecno Camon 19 Pro Mondrian Edition","Tecno",15999,84,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2.05",8,128,5000,1,33,6.8,120,"1080 x 2460",3,64,32,1,512
+687,"OPPO A77","OPPO",15299,70,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,1,33,6.56,0,"720 x 1600",2,50,8,1,0
+688,"Realme Q3i 5G","Realme",10990,76,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",4,128,5000,1,18,6.5,0,"1080 x 2400",3,48,16,1,0
+689,"Vivo Y36 5G","Vivo",20999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.2",8,256,5000,1,44,6.64,90,"1080 x 2388",2,50,16,1,1024
+690,"Tecno Spark 9 (4GB RAM + 64GB)","Tecno",7999,65,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,0,0,6.6,90,"720 x 1600",2,13,8,1,256
+691,"Nokia Oxygen Ultra 5G","Nokia",59990,92,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","3.2",12,256,5000,1,67,6.9,120,"1400 x 3200",5,200,32,1,0
+693,"Gionee G14 Pro","Gionee",7990,59,"HarmonyOS","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","8","1.8",4,64,4000,0,0,6.67,0,"720 x 1600",2,13,8,1,0
+694,"Samsung Galaxy S21 Plus","Samsung",51999,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.9",8,128,4800,1,25,6.7,120,"1080 x 2400",3,64,10,0,0
+695,"Oppo Reno 8 Pro (8GB RAM + 256GB)","Oppo",42990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.85",8,256,4500,1,80,6.7,120,"1080 x 2412",3,50,32,0,0
+696,"Samsung Galaxy A14 4G","Samsung",13999,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Exynos","8","2",4,64,5000,1,15,6.6,0,"1080 x 2408",3,50,13,1,1024
+698,"Poco X3","Poco",13999,80,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.3",6,64,6000,1,33,6.67,120,"1080 x 2400",4,64,20,1,512
+699,"Honor X8a","Honor",18999,78,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2",6,128,4500,1,23,6.7,90,"1080 x 2388",3,100,16,0,0
+700,"Realme 8","Realme",13499,78,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,128,5000,1,30,6.4,0,"1080 x 2400",4,64,16,1,256
+701,"Samsung Galaxy A01 Core","Samsung",4999,50,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"(28","4","1.5",1,16,3000,0,0,5.3,0,"720 x 1480",1,8,5,1,0
+702,"Realme Q2i","Realme",9999,69,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2",4,128,5000,1,18,6.5,0,"720 x 1600",3,13,8,0,0
+703,"Realme GT 3","Realme",44990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",8,128,4600,1,240,6.74,144,"1240 x 2772",3,50,16,0,0
+705,"Xiaomi Redmi Note 9 Pro Max","Xiaomi",15990,80,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.3",6,64,5020,1,33,6.67,0,"1080 x 2400",4,64,32,1,512
+706,"Vivo Y56 5G (4GB RAM + 128GB)","Vivo",17999,78,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",4,128,5000,1,18,6.58,0,"1080 x 2408",2,50,16,1,0
+708,"POCO C31 (4GB RAM + 64GB)","POCO",8285,68,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,0,0,6.53,0,"720 x 1600",3,13,5,1,512
+710,"OPPO A58","OPPO",18990,76,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",6,128,5000,1,33,6.56,90,"720 x 1612",2,50,8,1,1024
+711,"iKall S1 Pro","iKall",9990,66,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"unisoc,","4","1.6",6,128,6000,0,0,6.8,0,"720 x 1600",3,13,8,1,128
+712,"Motorola Moto G31","Motorola",11999,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,64,5000,1,20,6.47,0,"1080 x 2400",3,50,13,1,1024
+713,"Apple iPhone 7s","Apple",52990,56,"iOS","Single Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Fusion","4","2.37",3,32,2230,0,0,4.7,0,"750 x 1334",1,13,7,0,0
+714,"Samsung Galaxy A52s 5G (8GB RAM + 128GB)","Samsung",39990,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.4",8,128,4500,1,25,6.5,120,"1080 x 2400",4,64,32,1,1024
+715,"Realme GT Master Edition 5G (8GB RAM + 256GB)","Realme",24999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.4",8,256,4300,1,65,6.43,120,"1080 x 2400",3,64,32,0,0
+716,"iKall Z18 Pro","iKall",8999,68,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Quad","4","1.6",6,128,5000,0,0,6.5,0,"720 x 1560",1,13,8,1,256
+718,"Samsung Galaxy A52s 5G","Samsung",38999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.4",6,128,4500,1,25,6.5,120,"1080 x 2400",4,64,32,1,1024
+719,"Vivo V25 (12GB RAM + 256GB)","Vivo",27980,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2",12,256,4500,1,44,6.44,90,"1080 x 2408",3,64,50,1,1024
+720,"Asus ROG Phone 6","Asus",71999,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",12,256,6000,1,65,6.78,165,"1080 x 2448",3,50,12,0,0
+721,"Nokia X30 5G","Nokia",36999,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",8,256,4200,1,33,6.43,90,"1080 x 2400",2,50,16,0,0
+722,"Realme 9 4G","Realme",16999,81,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",6,128,5000,1,33,6.4,90,"1080 x 2400",3,108,16,1,256
+723,"Samsung Galaxy M32","Samsung",13499,76,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,64,6000,1,15,6.4,90,"1080 x 2400",4,64,20,1,1024
+724,"Realme X7 Max","Realme",26999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3",8,128,4500,1,50,6.43,120,"1080 x 2400",3,64,16,0,0
+725,"Google Pixel 6","Google",38999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Google","8","2.8",8,128,4614,1,30,6.4,90,"1080 x 2400",2,50,8,0,0
+726,"OPPO Reno 6 Pro 5G","OPPO",37999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3",12,256,4500,1,65,6.55,90,"1080 x 2400",4,64,32,0,0
+727,"Xiaomi Redmi Note 10 5G","Xiaomi",12490,76,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.2",4,128,5000,1,18,6.5,90,"1080 x 2400",3,48,8,1,512
+728,"Samsung Galaxy F41 (6GB RAM + 128GB)","Samsung",14990,82,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Exynos","8","2.3",6,128,6000,1,15,6.4,0,"1080 x 2340",3,64,32,1,512
+729,"Infinix Note 12 5G","Infinix",14999,78,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",6,64,5000,1,33,6.7,0,"1080 x 2400",3,50,16,1,2048
+730,"Xiaomi Redmi Note 11T Pro 5G","Xiaomi",19990,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","2.85",6,128,5080,1,67,6.6,144,"1080 x 2460",3,64,16,1,1024
+731,"Xiaomi Redmi Note 10","Xiaomi",15999,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.2",4,64,5000,1,33,6.43,0,"1080 x 2400",4,48,13,1,512
+732,"Honor MagicPad 13 Tablet","Honor",36999,72,"Android","Wi-Fi",0,0,0,"Snapdragon","8","2.84",8,256,10050,1,66,13.0,144,"1840 x 2880",1,13,9,0,0
+733,"Apple iPhone 9 Plus","Apple",45990,63,"iOS","Single Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"A13","6","2.65",4,64,2750,1,0,5.5,0,"750 x 1334",1,12,7,0,0
+734,"Xiaomi Redmi 12 Prime","Xiaomi",12499,66,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Octa","8","",4,64,5000,1,18,6.52,90,"1080 x 2400",4,48,8,1,512
+735,"Xiaomi Redmi 9A","Xiaomi",7390,61,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",2,32,5000,0,0,6.53,0,"720 x 1600",1,13,5,1,512
+736,"Xiaomi Civi 3 Disney Limited Edition","Xiaomi",48990,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","3.1",12,256,4500,1,67,6.55,120,"1080 x 2400",3,50,32,0,0
+737,"Xiaomi Redmi Note 9 Pro","Xiaomi",15990,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.3",4,64,5020,1,18,6.67,0,"1080 x 2400",4,48,16,1,512
+738,"Vivo Y77 5G","Vivo",17990,76,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",6,128,4500,1,80,6.64,120,"1080 x 2388",2,50,8,1,1024
+739,"Apple iPhone 11 Pro Max","Apple",95699,77,"iOS","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"A13","6","2.65",4,64,3500,1,18,6.5,0,"1242 x 2688",3,12,12,0,0
+741,"Realme C30 (3GB RAM + 32GB)","Realme",6499,60,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","8","1.82",3,32,5000,0,0,6.5,0,"720 x 1600",1,8,5,1,1024
+742,"Nokia C12 Pro (4GB RAM + 64GB)","Nokia",7299,60,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","8","1.6",4,64,4000,0,0,6.3,0,"720 x 1600",1,8,5,1,0
+743,"Honor Play 30","Honor",9999,68,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",4,128,5000,0,0,6.5,0,"720 x 1600",1,13,5,1,0
+744,"Vivo T4","Vivo",24990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.91",8,128,5000,1,80,6.6,120,"1080 x 2400",2,108,32,1,1024
+745,"Vivo Y18","Vivo",14990,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.2",4,64,5000,1,33,6.58,120,"1200 x 2400",2,50,16,1,0
+746,"iQOO 11 Pro 5G","iQOO",58990,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",8,256,4700,1,200,6.78,144,"1440 x 3200",3,50,16,0,0
+747,"Samsung Galaxy F32","Samsung",19990,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Octa","8","",8,128,5000,1,25,6.67,120,"1080 x 2408",2,50,16,1,1024
+748,"OPPO K10","OPPO",14990,78,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",6,128,5000,1,33,6.59,90,"1080 x 2412",3,50,16,1,1024
+749,"Vivo X90S","Vivo",44990,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","3.05",8,256,4810,1,120,6.78,120,"1260 x 2800",3,50,32,0,0
+750,"iQOO 9 SE 5G","iQOO",31990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.84",8,128,4500,1,66,6.62,120,"1080 x 2400",3,48,16,0,0
+751,"Oppo A77 5G","Oppo",21990,76,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.4",6,128,5000,1,33,6.56,90,"720 x 1600",2,48,8,1,0
+752,"Xiaomi 11T Pro 5G (12GB RAM + 256GB)","Xiaomi",37999,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.84",12,256,5000,1,120,6.67,120,"1080 x 2400",3,108,16,0,0
+753,"Infinix Note 12","Infinix",10999,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,64,5000,1,33,6.7,0,"2400 x 1080",3,50,16,1,512
+754,"Motorola Moto Edge S30 5G","Motorola",23990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.9",6,128,5000,1,33,6.8,144,"1080 x 2460",3,108,16,0,0
+756,"OnePlus Nord N20 5G","OnePlus",20990,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",6,128,4500,1,33,6.43,0,"1080 x 2400",3,64,16,1,0
+757,"Tecno Pova 3 (6GB RAM + 128GB)","Tecno",13998,77,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",6,128,7000,1,33,6.9,90,"1080 x 2460",3,50,8,1,256
+758,"OPPO A55s 5G","OPPO",14990,74,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",6,128,5000,0,0,6.5,0,"720 x 1600",3,13,8,1,0
+759,"Vivo Y55 5G","Vivo",20990,77,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.2",4,128,5000,1,18,6.58,0,"1080 x 2408",3,50,8,1,0
+761,"Nokia X100 5G","Nokia",17990,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2",6,128,4470,1,18,6.67,0,"1080 x 2400",4,48,16,1,1000
+762,"OPPO F21 Pro 4G","OPPO",20999,82,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",8,128,4500,1,33,6.5,90,"1080 x 2400",3,64,32,1,256
+763,"Xiaomi Redmi 9 Activ (6GB RAM + 128GB)","Xiaomi",10356,72,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",6,128,5000,0,0,6.53,0,"720 x 1600",2,13,5,1,512
+764,"Apple iPhone 13 Pro (256GB)","Apple",129900,83,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","3.22",6,256,3095,1,0,6.1,120,"1170 x 2532",3,12,12,0,0
+765,"Oukitel WP15 5G","Oukitel",19990,77,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.2",8,128,15600,0,0,6.52,0,"720 x 1600",3,48,8,1,0
+766,"Vivo Y33s","Vivo",15757,80,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",8,128,5000,1,18,6.58,0,"1080 x 2408",3,50,16,1,1024
+767,"Realme GT Neo 3 5G (8GB RAM + 256GB)","Realme",25990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.85",8,256,5000,1,80,6.7,120,"1080 x 2412",3,50,16,0,0
+768,"Infinix Zero X Pro","Infinix",21990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Helio","8","2.05",8,128,4500,1,45,6.67,120,"1080 x 2400",3,108,16,1,512
+769,"OnePlus 10 Pro 5G (12GB RAM + 512GB)","OnePlus",74999,92,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3",12,512,5000,1,80,6.7,120,"1440 x 3216",3,50,32,0,0
+770,"Xiaomi Redmi K50 5G","Xiaomi",27990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","2.85",8,128,5500,1,67,6.67,120,"1440 x 3200",3,48,20,0,0
+771,"Micromax IN 2B","Micromax",6990,66,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","8","1.8",4,64,5000,0,0,6.52,0,"720 x 1600",2,13,5,1,256
+772,"HTC U23 Pro","HTC",45990,90,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.4",8,256,4600,1,30,6.7,120,"1080 x 2400",4,108,32,1,0
+773,"Vivo V21e 5G","Vivo",22990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",8,128,4000,1,44,6.44,0,"1080 x 2400",2,64,32,0,0
+774,"Vivo Y73 2021","Vivo",17643,80,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.05",8,128,4000,1,33,6.44,0,"1080 x 2400",3,64,16,1,0
+775,"Honor Play 50","Honor",14990,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.6",8,128,5000,1,18,6.58,0,"1200 x 2400",2,50,8,1,0
+776,"OnePlus 11 Jupiter Rock Edition","OnePlus",64990,90,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",16,256,5000,1,100,6.7,120,"1440 x 3216",3,50,16,0,0
+777,"itel A60","itel",5985,49,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","4","",2,32,5000,0,0,6.6,0,"720 x 1612",2,8,5,1,128
+778,"Motorola Moto G15","Motorola",12990,79,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2",6,128,5000,1,33,6.56,90,"1080 x 1920",2,64,16,1,1024
+779,"Xiaomi Redmi Note 11 5G","Xiaomi",14990,77,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.4",4,128,5000,1,33,6.6,90,"1080 x 2400",2,50,16,1,512
+780,"Motorola Moto G33","Motorola",12990,80,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",8,128,5000,1,44,6.67,120,"1080 x 2400",3,64,16,1,1024
+781,"Xiaomi Mi 11X Pro","Xiaomi",25499,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2.84",8,128,4520,1,33,6.67,120,"1080 x 2400",3,108,20,0,0
+782,"Xiaomi Redmi Note 10 Pro Max (6GB RAM + 128GB)","Xiaomi",20990,82,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.3",6,128,5020,1,33,6.67,120,"1080 x 2400",4,108,16,1,512
+783,"Tecno Pova 5 4G","Tecno",15990,79,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.2",8,128,6000,1,45,6.78,120,"1080 x 2460",2,50,8,1,512
+784,"iKall Z17 Pro","iKall",7999,60,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Quad","4","1.3",4,64,5000,0,0,6.5,0,"720 x 1600",1,13,8,1,128
+785,"iQOO 9 5G","iQOO",32990,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.9",8,128,4350,1,120,6.56,120,"1080 x 2376",3,48,16,0,0
+786,"Realme C33 2023 (4GB RAM + 128GB)","Realme",10499,71,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","8","1.8",4,128,5000,1,10,6.5,0,"720 x 1600",2,50,5,1,1024
+787,"Samsung Galaxy S21 5G (8GB RAM + 256GB)","Samsung",73999,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.9",8,256,4000,1,25,6.2,120,"1080 x 2400",3,64,10,0,0
+788,"Xiaomi 14 Pro","Xiaomi",64990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","",8,128,5000,1,120,6.74,144,"1440 x 3200",3,50,32,0,0
+789,"Motorola Edge S","Motorola",22490,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",6,128,5000,1,20,6.7,90,"1080 x 2520",4,64,16,1,0
+790,"Xiaomi Redmi Note 13 Pro Plus","Xiaomi",32990,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.6",8,256,5000,1,150,6.72,144,"1080 x 2400",3,200,32,0,0
+791,"Samsung Galaxy A22 5G","Samsung",18499,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",6,128,5000,1,15,6.6,90,"1080 x 2408",3,48,8,1,1024
+792,"Vivo V21 Pro","Vivo",32999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.4",8,128,4300,1,33,6.44,0,"1080 x 2400",4,64,44,0,0
+793,"Samsung Galaxy A04s (4GB RAM + 128GB)","Samsung",12990,72,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Exynos","8","2",4,128,5000,1,15,6.5,90,"720 x 1600",3,50,5,1,1024
+794,"OPPO A58x","OPPO",13990,72,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",6,128,5000,1,10,6.56,90,"720 x 1612",2,13,8,1,1024
+795,"Xiaomi Redmi K60i","Xiaomi",28999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","3.1",8,128,5080,1,120,6.67,120,"1080 x 2460",3,50,32,0,0
+797,"Oppo Reno 5 Pro 5G","Oppo",33999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.6",8,128,4350,1,65,6.53,90,"1080 x 2400",4,64,32,0,0
+798,"Xiaomi Redmi A1 Plus (3GB RAM + 32GB)","Xiaomi",6599,61,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","4","2",3,32,5000,1,10,6.52,0,"720 x 1600",2,8,5,1,512
+800,"Tecno Spark Go 2023","Tecno",6700,62,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","4","2",3,32,5000,1,10,6.56,0,"720 x 1600",2,13,5,1,256
+801,"Xiaomi Mi 10T 5G (8GB RAM + 128GB)","Xiaomi",22999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.84",8,128,5000,1,33,6.67,144,"2400 x 1080",3,64,20,0,0
+802,"Oukitel WP10 5G","Oukitel",28500,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2",8,128,8000,1,18,6.67,0,"1080 x 2400",4,48,16,1,0
+804,"OnePlus Nord 5","OnePlus",34999,76,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","",8,128,5000,1,120,6.57,120,"1080 x 2400",3,64,32,0,0
+805,"Vivo T1 Pro","Vivo",23999,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.4",6,128,4700,1,66,6.44,90,"1080 x 2404",3,64,16,1,1024
+806,"Realme Narzo 50i Prime (4GB RAM + 64GB)","Realme",7499,64,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","8","1.82",4,64,5000,1,10,6.5,0,"720 x 1600",1,8,5,1,1024
+807,"Realme 9 Pro Plus 5G (8GB RAM + 128GB)","Realme",24999,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.5",8,128,4500,1,60,6.4,90,"1080 x 2400",3,50,16,0,0
+808,"Apple iPhone 14 Pro (256GB)","Apple",130999,85,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","3.46",6,256,3200,1,0,6.1,120,"1179 x 2556",3,48,12,0,0
+809,"Sony Xperia 5 II","Sony",69990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.84",8,128,4000,1,21,6.1,120,"1080 x 2520",3,12,8,1,0
+810,"Tecno Pova 4","Tecno",11999,73,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.2",8,128,6000,1,18,6.82,90,"720 x 1600",2,50,8,1,512
+811,"Xiaomi Redmi 10C","Xiaomi",13990,71,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",4,64,6000,1,18,6.7,0,"720 x 1600",2,50,5,1,512
+812,"Samsung Galaxy A53 (8GB RAM + 256GB)","Samsung",30999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.4",8,256,5000,1,25,6.5,120,"1080 x 2400",4,64,32,1,1024
+813,"Vivo Y52T","Vivo",14999,71,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2",8,128,5000,1,18,6.51,0,"720 x 1600",2,13,8,0,0
+814,"OnePlus 10R Prime Edition","OnePlus",31899,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.85",8,128,5000,1,80,6.7,120,"1080 x 2412",3,50,16,0,0
+815,"Tecno Spark 9T","Tecno",7499,72,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,1,18,6.6,0,"1080 x 2408",3,50,8,1,0
+816,"Xiaomi Redmi Note 11SE","Xiaomi",13590,80,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2.05",6,64,5000,1,33,6.43,0,"1080 x 2400",4,64,13,1,512
+817,"OnePlus 10T (12GB RAM + 256GB)","OnePlus",49999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",12,256,4800,1,150,6.7,120,"1080 x 2412",3,50,16,0,0
+819,"OPPO Reno 8 Z","OPPO",26990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",8,256,4500,1,33,6.43,0,"1080 x 2400",3,64,16,1,1024
+820,"Xiaomi Redmi Note 11T 5G (8GB RAM + 128GB)","Xiaomi",18499,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.4",8,128,5000,1,33,6.6,90,"1080 x 2400",2,50,16,1,1024
+821,"Realme Narzo 50i Prime","Realme",6699,61,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","8","1.82",3,32,5000,1,10,6.5,0,"720 x 1600",1,8,5,1,1024
+822,"Huawei Mate 50 Pro 5G","Huawei",99990,85,"Hongmeng","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Kirin","8","3.13",8,256,4500,1,66,6.76,120,"1440 x 3200",3,64,13,0,0
+823,"Realme X7 Pro","Realme",29999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.6",8,128,4500,1,65,6.55,120,"1080 x 2400",4,64,32,0,0
+824,"Vivo V27e 5G","Vivo",24999,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",8,128,5000,1,0,6.5,90,"1080 x 2400",3,64,32,0,0
+825,"Xiaomi 13 Lite","Xiaomi",42990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","2.4",8,128,4500,1,67,6.55,120,"1080 x 2400",3,50,32,0,0
+826,"OnePlus Nord Lite","OnePlus",19999,77,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2",8,128,4300,1,30,6.55,90,"1080 x 2400",3,48,16,0,0
+827,"Xiaomi Redmi Note 11T 5G","Xiaomi",15499,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.4",6,64,5000,1,33,6.6,90,"1080 x 2400",2,50,16,1,1024
+828,"Xiaomi Redmi Note 10 Pro","Xiaomi",15990,79,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.3",6,64,5020,1,33,6.67,120,"1080 x 2400",4,64,16,1,512
+829,"Asus ZenFone 9","Asus",63990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",8,128,4300,1,30,5.9,120,"1080 x 2400",2,50,12,0,0
+830,"Vivo Y25","Vivo",7499,42,"Android","Dual Sim, 3G, 4G, Wi-Fi",0,0,0,"Helio","4","1.3",1,16,1900,0,0,4.5,0,"480 x 854",1,5,2,1,128
+831,"Vivo X80 5G","Vivo",45990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","3.05",8,128,4500,1,80,6.78,120,"1080 x 2400",3,50,32,0,0
+832,"Realme X50 Pro 5G (8GB RAM + 128GB)","Realme",29999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.84",8,128,4200,1,65,6.44,90,"1080 x 2400",4,64,32,0,0
+833,"OnePlus Nord 3T 5G","OnePlus",29990,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3",8,128,4500,1,80,6.43,90,"1080 x 2400",3,50,32,0,0
+834,"Motorola Moto G5 Plus","Motorola",7990,63,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Snapdragon","8","2",4,32,3000,0,0,5.2,0,"1080 x 1920",1,12,5,1,0
+835,"Xiaomi Redmi 10 Prime","Xiaomi",10999,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2",4,64,6000,1,18,6.5,90,"1080 x 2400",4,50,8,1,512
+836,"Vivo Y91c","Vivo",8199,59,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",2,32,4030,0,0,6.22,0,"720 x 1520",1,13,5,1,256
+837,"Realme GT Neo 6 Pro","Realme",49999,78,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","",8,256,5200,1,150,6.74,144,"1240 x 2772",3,108,16,0,0
+838,"Motorola Moto G52 5G","Motorola",14999,76,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",4,64,5000,1,33,6.6,90,"2460 x 1080",3,50,16,1,0
+839,"Realme GT 5 Pro","Realme",59990,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","",8,256,4700,1,240,6.74,144,"1240 x 2772",3,200,32,0,0
+840,"Motorola Edge 20 5G","Motorola",26999,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.4",8,128,4000,1,30,6.7,144,"1080 x 2460",3,108,32,0,0
+841,"Nubia Neo","Nubia",15990,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Unisoc","8","2.7",8,256,4500,0,0,6.6,120,"1080 x 2408",2,50,8,1,0
+842,"Huawei Mate 40 Pro 4G","Huawei",69990,90,"Harmony","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC, IR Blaster",0,1,1,"Kirin","8","3.13",8,128,4400,1,66,6.76,90,"1344 x 2772",3,50,13,1,256
+844,"Nokia C22 (4GB RAM + 64GB)","Nokia",8249,64,"Android","Dual Sim, 3G, 4G, Wi-Fi",0,0,0,"Unisoc","8","1.6",4,64,5000,0,0,6.52,0,"720 x 1600",2,13,8,1,0
+845,"Nothing Phone 3","Nothing",45990,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Octa","8","",8,128,5000,1,100,6.67,120,"1080 x 2400",3,64,32,0,0
+846,"Infinix Hot 12 Play","Infinix",8999,66,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","8","1.82",4,64,6000,1,18,6.82,90,"1640 x 720",2,13,8,1,256
+847,"Samsung Galaxy A56","Samsung",43990,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos,","8","",8,128,5000,1,45,6.72,120,"1080 x 2340",3,64,32,1,1024
+848,"iKall Z19 Pro Ultra","iKall",8799,65,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Hexa","6","1.6",6,128,5000,0,0,6.5,0,"720 x 1600",2,13,8,1,512
+849,"Samsung Galaxy Note 30 Ultra 5G","Samsung",104999,95,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",12,256,4500,1,67,6.71,120,"1440 x 3214",3,200,10,1,1024
+850,"Vivo S17e","Vivo",24990,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.8",8,128,4600,1,66,6.78,120,"1080 x 2400",2,64,16,0,0
+851,"Samsung Galaxy A12","Samsung",11759,71,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,1,15,6.5,0,"720 x 1560",4,48,8,1,0
+852,"Lava Blaze 1X 5G","Lava",11999,76,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",6,128,5000,1,15,6.5,90,"720 x 1600",3,50,8,1,1024
+853,"Apple iPhone 16","Apple",74990,75,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","8","",8,128,3500,1,0,6.4,120,"1200 x 2600",2,48,12,0,0
+854,"Samsung Galaxy S20 5G","Samsung",74999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.73",8,128,4000,1,25,6.2,0,"1440 x 3200",3,64,10,1,1024
+855,"Duoqin Qin 3 Ultra","Duoqin",18990,66,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.2",8,256,2500,1,0,5.02,0,"720 x 1600",1,8,5,0,0
+857,"Samsung Galaxy M30s","Samsung",12990,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Exynos","8","2.3",4,64,6000,1,15,6.4,0,"1080 x 2280",3,48,16,1,512
+858,"iQOO Z7i","iQOO",10990,69,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",4,128,5000,1,15,6.51,0,"720 x 1600",2,13,5,1,0
+859,"Ulefone Armor 23 Ultra","Ulefone",44990,92,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3",16,256,7000,1,120,6.67,120,"1080 x 2408",3,108,16,1,1024
+861,"Xiaomi Mi 11X 5G (8GB RAM + 128GB)","Xiaomi",23990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","3.2",8,128,4520,1,33,6.67,120,"1080 x 2400",3,48,20,0,0
+863,"Tecno Pop 7 Pro (3GB RAM + 64GB)","Tecno",6999,63,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","4","2",3,64,5000,1,10,6.56,0,"720 x 1612",2,12,5,1,256
+864,"Samsung Galaxy A32 5G","Samsung",24499,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2",6,128,5000,1,15,6.5,90,"720 x 1600",4,48,13,1,1024
+865,"Blackview BV5200 Pro","Blackview",8990,67,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Helio","8","2.3",4,64,5180,1,10,6.1,0,"720 x 1560",2,13,8,1,0
+866,"Samsung Galaxy F14","Samsung",14990,66,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Octa","8","",4,64,6000,1,15,6.62,0,"2408 x 1080",2,50,13,1,1024
+867,"Vivo V21","Vivo",24999,83,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Dimensity","8","2.4",8,128,4000,1,33,6.44,90,"1080 x 2400",3,64,44,1,0
+868,"Letv Y1 Pro Plus","Letv",5999,60,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","4","1.8",6,64,4000,1,10,6.5,0,"720 x 1560",2,8,5,0,0
+869,"Huawei Nova 9 SE","Huawei",19990,84,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Snapdragon","8","2.4",8,128,4000,1,66,6.78,90,"1080 x 2388",4,108,16,1,0
+870,"Xiaomi Redmi K60 Pro","Xiaomi",38999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",8,128,5000,1,120,6.67,120,"1440 x 3200",3,54,16,0,0
+871,"OPPO A1 Pro","OPPO",20990,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",8,128,4800,1,67,6.7,120,"1080 x 2412",2,108,16,1,1024
+872,"POCO M4 Pro 4G (8GB RAM + 128GB)","POCO",13999,81,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2.05",8,128,5000,1,33,6.43,90,"1080 x 2400",3,64,16,1,1024
+873,"Samsung Galaxy F63","Samsung",21999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.4",6,128,7000,1,33,6.7,0,"1080 x 2400",4,64,32,1,1024
+874,"Poco M4 Pro 5G (8GB RAM + 128GB)","Poco",18999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.4",8,128,5000,1,33,6.6,90,"1080 x 2400",2,50,16,1,1024
+875,"Xiaomi Redmi Note 13","Xiaomi",18990,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2.2",4,64,5000,1,18,6.52,90,"1080 x 2460",3,50,8,1,512
+876,"Xiaomi Redmi Note 12 Explorer","Xiaomi",24999,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","2.6",8,256,4300,1,120,6.67,120,"1080 x 2400",3,200,16,1,512
+877,"Realme 9i (6GB RAM + 128GB)","Realme",15999,78,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",6,128,5000,1,33,6.6,90,"1080 x 2412",3,50,16,1,1024
+878,"Vivo T1 44W (8GB RAM + 128GB)","Vivo",17999,82,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",8,128,5000,1,44,6.44,0,"1080 x 2408",3,50,16,1,1024
+879,"Vivo V30","Vivo",33990,77,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","",8,256,5000,1,120,6.73,120,"1080 x 2400",3,108,32,1,0
+880,"Nokia G400 5G","Nokia",16990,73,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",4,64,5000,1,20,6.58,120,"1080 x 2408",3,48,16,1,0
+881,"Xiaomi 11i HyperCharge 5G (8GB RAM + 128GB)","Xiaomi",21990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.5",8,128,4500,1,120,6.67,120,"2400 x 1080",3,108,16,1,1024
+882,"Samsung Galaxy S24","Samsung",72990,80,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Snapdragon","8","",8,256,4800,1,45,6.71,144,"1800 x 3200",3,64,12,0,0
+883,"OnePlus Nord N40 SE","OnePlus",24990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.4",8,128,5000,1,40,6.78,120,"1080 x 2400",3,108,16,1,0
+884,"Realme GT Neo 3T (8GB RAM + 256GB)","Realme",26999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","3.2",8,256,5000,1,80,6.62,120,"1080 x 2400",3,64,16,0,0
+885,"BLU F91 5G","BLU",14990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.4",8,128,5000,1,0,6.8,0,"1080 x 2460",4,48,16,1,0
+886,"Samsung Galaxy A83 5G","Samsung",39990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",6,128,4500,1,25,6.71,120,"1440 x 3200",3,64,10,1,1024
+887,"Xiaomi Redmi 13 Prime 5G","Xiaomi",17990,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2.2",6,128,5100,1,18,6.73,120,"1080 x 2408",2,64,16,1,1024
+888,"Vivo X110 Pro Plus","Vivo",99990,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","",12,256,4870,1,200,6.82,165,"1440 x 3200",4,200,60,0,0
+889,"Realme C31 (4GB RAM + 64GB)","Realme",9999,65,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","8","1.82",4,64,5000,0,0,6.52,0,"720 x 1600",3,13,5,1,1024
+890,"OPPO F22 Pro","OPPO",27660,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",8,128,4800,1,67,6.58,120,"1080 x 2400",3,64,32,1,1024
+891,"Poco X4 Pro 5G (6GB RAM + 128GB)","Poco",18499,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2.2",6,128,5000,1,67,6.67,120,"1080 x 2400",3,64,16,1,1024
+892,"Motorola Edge 50","Motorola",55990,78,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Dimensity","8","",8,256,5000,1,80,6.67,165,"1080 x 2400",3,64,32,0,0
+893,"OPPO A77 (4GB RAM + 128 GB)","OPPO",15998,71,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,128,5000,1,33,6.56,0,"720 x 1600",2,50,8,1,0
+894,"Motorola Edge 50 Pro","Motorola",89990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Snapdragon","8","",12,256,4600,1,150,6.72,165,"1080 x 2400",3,200,60,0,0
+895,"Huawei Nova 11i","Huawei",23999,80,"HarmonyOS","Dual Sim, 3G, 4G, Wi-Fi",0,0,0,"Snapdragon","8","2.4",8,128,5000,1,40,6.8,90,"1080 x 2388",2,48,16,0,0
+896,"Samsung Galaxy A23 (8GB RAM + 128GB)","Samsung",17999,82,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",8,128,5000,1,25,6.6,0,"1080 x 2408",4,50,8,1,1024
+897,"Google Pixel 8A","Google",45990,69,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Google","8","",6,128,4700,1,67,6.3,90,"1080 x 2400",2,12,10,0,0
+898,"iQOO Z8x","iQOO",19990,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.6",8,128,5000,1,67,6.67,0,"1080 x 2388",2,64,16,1,0
+899,"Tecno Spark Go 2023 (3GB RAM + 64GB)","Tecno",7390,64,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","4","2",3,64,5000,1,10,6.56,0,"720 x 1600",2,13,5,1,256
+900,"Infinix Note 30i","Infinix",14990,79,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",8,256,5000,1,33,6.66,120,"1080 x 2400",2,64,16,1,1024
+901,"Itel P40 (2GB RAM + 64GB)","Itel",5999,58,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Spreadtrum","8","1.6",2,64,6000,1,18,6.6,0,"720 x 1612",2,13,5,1,512
+902,"iQOO 11s","iQOO",43990,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",12,256,4700,1,200,6.78,144,"1440 x 3200",3,50,16,0,0
+904,"Redmi K60 Ultra","Redmi",45990,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","3.05",8,128,5000,1,120,6.7,144,"1440 x 3200",3,108,32,0,0
+905,"Tecno Phantom X3","Tecno",49990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Dimensity","8","3.05",12,256,5500,1,67,6.82,144,"1080 x 2400",3,50,32,0,0
+906,"iQOO 12 Pro","iQOO",69990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","",12,256,5000,1,200,6.82,165,"1440 x 3200",3,200,32,0,0
+907,"iQOO 9 SE 5G (12GB RAM + 256GB)","iQOO",33990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.84",12,256,4500,1,66,6.62,120,"1080 x 2400",3,48,16,0,0
+908,"Xiaomi 11i HyperCharge 5G","Xiaomi",22999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.5",6,128,4500,1,120,6.67,120,"2400 x 1080",3,108,16,1,1024
+909,"Samsung Galaxy A16","Samsung",16990,69,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Exynos,","8","",4,128,5000,1,25,6.67,120,"1080 x 2408",3,50,16,1,1024
+910,"Vivo S12 Pro 5G","Vivo",39990,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3",8,128,4300,1,44,6.56,90,"1080 x 2400",3,108,50,0,0
+911,"Vivo Y53t","Vivo",11999,67,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2",4,128,6000,1,15,6.51,0,"720 x 1600",2,13,5,0,0
+913,"OPPO A55 4G (6GB RAM + 128GB)","OPPO",14999,76,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",6,128,5000,1,18,6.51,0,"720 x 1600",3,50,16,1,256
+914,"Samsung Galaxy M13 (4GB RAM + 64GB)","Samsung",10749,71,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Exynos","8","2",4,64,6000,1,15,6.6,0,"1080 x 2400",3,50,8,1,1024
+915,"Honor X7a","Honor",13999,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",6,128,5000,1,23,6.75,90,"720 x 1600",4,50,8,1,0
+916,"Poco F4 5G (8GB RAM + 128GB)","Poco",27999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.2",8,128,4500,1,67,6.67,120,"1080 x 2400",3,64,20,0,0
+917,"Apple iPhone 13 Mini (256GB)","Apple",74900,79,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","3.22",4,256,2438,1,0,5.4,0,"1080 x 2340",2,12,12,0,0
+918,"Tecno Camon 19 Neo","Tecno",10499,77,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Helio","8","2",6,128,5000,1,18,6.8,90,"1080 x 2400",3,48,32,0,0
+919,"Samsung Galaxy A04e (3GB RAM + 64GB)","Samsung",9799,66,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",3,64,5000,0,0,6.5,0,"720 x 1600",2,13,5,1,1024
+920,"Realme 8s 5G (8GB RAM + 128GB)","Realme",18999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",8,128,5000,1,33,6.5,90,"1080 x 2400",3,64,16,1,1024
+921,"Samsung Galaxy A04e (4GB RAM + 128GB)","Samsung",11149,69,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,128,5000,0,0,6.5,0,"720 x 1600",2,13,5,1,1024
+922,"Realme Narzo 50i","Realme",7274,59,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","8","1.6",2,32,5000,0,0,6.5,0,"720 x 1600",1,8,5,1,256
+924,"Xiaomi 13 5G","Xiaomi",59990,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",8,128,4500,1,67,6.36,120,"1080 x 2400",3,50,32,0,0
+925,"Xiaomi 14","Xiaomi",54999,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","",12,256,5000,1,67,6.43,120,"1440 x 3200",3,50,32,0,0
+926,"Oppo Find X7 Pro 5G","Oppo",110490,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","",12,256,5000,1,150,6.83,144,"1440 x 3168",3,108,32,0,0
+927,"iQOO Neo 7 SE 5G","iQOO",24990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3.1",8,128,5000,1,120,6.78,120,"1080 x 2400",3,64,16,0,0
+928,"iQOO Z7x","iQOO",15990,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Snapdragon","8","2.2",8,128,6000,1,80,6.64,0,"1080 x 2388",2,50,8,1,0
+929,"ZTE Axon 40 Ultra 5G","ZTE",61990,89,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3",8,128,5000,1,65,6.8,120,"1116 x 2480",3,64,16,0,0
+930,"OnePlus Ace 5G","OnePlus",28990,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.85",8,128,4500,1,150,6.7,120,"1080 x 2412",3,50,16,0,0
+931,"Motorola Moto E22s","Motorola",7839,70,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,64,5000,1,10,6.5,90,"720 x 1600",2,16,8,1,0
+932,"Realme Narzo 50","Realme",12999,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,64,5000,1,33,6.6,120,"1080 x 2412",3,50,16,1,256
+933,"Infinix Note 15 Pro 5G","Infinix",19990,77,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","",8,128,5000,1,66,6.8,144,"1080 x 2400",3,108,32,1,2048
+934,"Xiaomi Redmi Note 10 Lite","Xiaomi",13199,76,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.3",4,64,5020,1,18,6.67,0,"1080 x 2400",4,48,16,1,512
+935,"Xiaomi Redmi Note 11 (6GB RAM + 64GB)","Xiaomi",13689,79,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.4",6,64,5000,1,33,6.43,90,"1080 x 2400",4,50,13,1,512
+937,"iQOO Z6 5G","iQOO",15990,78,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",4,128,5000,1,18,6.58,120,"1080 x 2408",3,50,16,1,1024
+938,"Huawei Nova 10 SE","Huawei",23999,84,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Sanpdragon","8","2.4",8,256,4500,1,66,6.67,90,"1080 x 2160",3,108,16,1,0
+941,"Vivo Y10","Vivo",12490,63,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",4,128,5000,0,0,6.51,0,"720 x 1600",2,13,8,0,0
+942,"Realme Narzo 70 5G","Realme",20999,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","",8,128,5000,1,45,6.56,120,"1080 x 2400",2,108,32,1,1024
+943,"Asus ROG Phone 6 Batman Edition","Asus",72999,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3.2",16,256,6000,1,65,6.78,165,"1080 x 2448",3,50,12,0,0
+944,"Samsung Galaxy A52 (8GB RAM + 128GB)","Samsung",24990,86,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.3",8,128,4500,1,25,6.5,90,"1080 x 2400",4,64,32,1,1024
+945,"Realme Narzo 30 Pro 5G (8GB RAM +128GB)","Realme",15999,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",8,128,5000,1,30,6.5,120,"1080 x 2400",3,48,16,1,256
+947,"Vivo V23 Pro 5G (12GB RAM + 256GB)","Vivo",37990,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","3",12,256,4300,1,44,6.56,90,"1080 x 2376",3,108,50,0,0
+948,"Realme X3 SuperZoom Edition (8GB RAM + 256GB)","Realme",24999,82,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.96",8,256,4200,1,30,6.57,120,"1080 x 2400",4,64,32,0,0
+949,"itel S16","itel",5990,52,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","4","1.3",1,16,4000,0,0,6.5,0,"1600 x 720",3,8,8,1,32
+950,"Honor X6","Honor",13999,71,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,64,5000,1,10,6.5,0,"720 x 1600",3,50,5,1,0
+952,"Honor X40","Honor",23990,76,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.2",6,128,5100,1,40,6.67,120,"1080 x 2400",2,50,8,0,0
+953,"OPPO A15","OPPO",11990,66,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",3,32,4230,0,0,6.52,0,"720 x 1600",3,13,5,1,256
+954,"Apple iPhone 14 Pro Max (512GB)","Apple",157999,87,"iOS","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Bionic","6","3.46",6,512,4323,1,0,6.7,120,"1290 x 2796",3,48,12,0,0
+955,"Motorola Moto G72","Motorola",19990,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",6,128,5000,1,33,6.5,120,"1080 x 2400",3,108,16,0,0
+956,"Samsung Galaxy A33 5G (8GB RAM + 128GB)","Samsung",26999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.4",8,128,5000,1,25,6.4,90,"1080 x 2400",4,48,13,1,1024
+958,"Samsung Galaxy A13 (4GB RAM + 128GB)","Samsung",15499,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Octa","8","2",4,128,5000,1,25,6.6,0,"1080 x 2408",4,50,8,1,1024
+959,"Motorola Moto Edge 30 Neo","Motorola",31990,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2.2",8,128,4020,1,68,6.28,120,"1080 x 2400",2,64,32,0,0
+960,"POCO M4 Pro 4G (6GB RAM + 128GB)","POCO",14795,79,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2.05",6,128,5000,1,33,6.43,90,"1080 x 2400",3,64,16,1,1024
+962,"Samsung Galaxy S22 Ultra 5G (8GB RAM + 128GB)","Samsung",99990,92,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3",8,128,5000,1,45,6.8,120,"1440 x 3080",4,108,40,0,0
+963,"Samsung Galaxy S22 5G (8GB RAM + 256GB)","Samsung",65000,87,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3",8,256,3700,1,25,6.1,120,"1080 x 2340",3,50,10,0,0
+964,"Xiaomi 12S Ultra","Xiaomi",69990,92,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Snapdragon","8","3.2",8,256,4860,1,67,6.73,120,"1440 x 3200",3,50,32,0,0
+965,"Vivo Y33s 5G (8GB RAM + 128GB)","Vivo",17990,75,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.2",8,128,5000,1,18,6.51,0,"720 x 1600",2,13,8,1,0
+966,"OPPO Reno7 Pro 5G (12GB RAM + 512 GB)","OPPO",44990,86,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","3",12,512,4500,1,65,6.55,90,"1080 x 2400",3,50,32,0,0
+967,"Tecno Camon 19 Pro 5G","Tecno",21999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2.4",8,128,5000,1,33,6.8,120,"1080 x 2460",3,64,16,0,0
+968,"Nubia Z40 Pro 5G","Nubia",49990,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3",8,128,5000,1,80,6.67,144,"1080 x 2400",3,64,16,0,0
+969,"OPPO A76","OPPO",16490,73,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.4",6,128,5000,1,33,6.56,90,"720 x 1612",2,13,8,1,0
+970,"Motorola Moto E32s (4GB RAM + 64GB)","Motorola",9600,67,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","1.8",4,64,5000,1,18,6.5,90,"720 x 1600",3,16,8,1,0
+971,"Xiaomi Redmi Note 12T 5G","Xiaomi",15999,78,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2",6,64,5000,1,33,6.52,90,"1080 x 2400",3,64,16,1,512
+972,"Xiaomi 11i 5G (8GB RAM + 128GB)","Xiaomi",22990,83,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.5",8,128,5160,1,67,6.67,120,"2400 x 1080",3,108,16,1,1024
+973,"Realme C31","Realme",8049,62,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Tiger","8","1.82",3,32,5000,0,0,6.52,0,"720 x 1600",3,13,5,1,1024
+975,"Infinix Note 12 Pro","Infinix",16999,83,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.2",8,256,5000,1,33,6.7,0,"1080 x 2400",3,108,16,1,2048
+976,"Infinix Zero 5G","Infinix",19999,82,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2",8,128,4500,1,33,6.78,120,"1080 x 2400",3,48,16,1,256
+978,"Nokia G300 5G","Nokia",13999,71,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","2",4,64,4470,1,18,6.52,0,"720 x 1600",3,16,8,1,0
+979,"POCO C31","POCO",7085,65,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",3,32,5000,0,0,6.53,0,"720 x 1600",3,13,5,1,512
+980,"Realme 8i (6GB RAM + 128GB)","Realme",15999,77,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.05",6,128,5000,1,18,6.6,120,"1080 x 2412",3,50,16,1,256
+981,"Xiaomi Redmi 10 Prime (6GB RAM + 128GB)","Xiaomi",12999,77,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2",6,128,6000,1,18,6.5,90,"1080 x 2400",4,50,8,1,512
+982,"Vivo V23e 5G","Vivo",23999,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Dimensity","8","2.4",8,128,4050,1,44,6.44,0,"1080 x 2400",3,50,44,1,0
+983,"OPPO A57 4G","OPPO",11990,67,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2.3",3,64,5000,1,33,6.56,0,"720 x 1612",2,13,8,1,0
+984,"Vivo Y12G (3GB RAM + 64GB)","Vivo",10999,68,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2",3,64,5000,0,0,6.51,0,"720 x 1600",3,13,8,1,0
+985,"Poco X6 5G","Poco",15999,79,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.4",6,128,6000,1,0,6.67,0,"1080 x 2404",4,64,16,1,512
+986,"Poco M4 Pro 5G (6GB RAM + 128GB)","Poco",16999,81,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster",1,0,1,"Dimensity","8","2.4",6,128,5000,1,33,6.6,90,"1080 x 2400",2,50,16,1,1024
+987,"OPPO Reno7 5G","OPPO",28999,85,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Dimensity","8","2",8,256,4500,1,65,6.43,90,"1080 x 2400",3,64,32,1,1024
+988,"Poco X6 Pro 5G","Poco",19999,72,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","",6,128,5000,1,0,6.67,120,"1080 x 2400",4,64,32,1,1024
+989,"Vivo V20 Pro","Vivo",27000,84,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",1,0,0,"Snapdragon","8","2.4",8,128,4000,1,33,6.44,0,"1080 x 2400",3,64,44,0,0
+990,"Infinix Smart 6 HD","Infinix",5999,59,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","4","2",2,32,5000,0,0,6.6,0,"720 x 1600",2,8,5,1,512
+991,"POCO M2 Pro (6GB RAM + 64GB)","POCO",11890,78,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Snapdragon","8","2.3",6,64,5000,1,33,6.67,0,"1080 x 2400",4,48,16,1,512
+992,"Nokia G21 (6GB RAM + 128GB)","Nokia",13199,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Unisoc","8","1.6",6,128,5050,1,18,6.5,90,"720 x 1600",3,50,8,1,512
+993,"Xiaomi Redmi Note 12S","Xiaomi",19999,78,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC, IR Blaster",0,1,1,"Helio","8","2.05",6,64,5000,1,67,6.43,90,"1080 x 2400",3,108,12,1,512
+994,"Realme X3 SuperZoom Edition (12GB RAM + 256GB)","Realme",22990,83,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2.96",12,256,4200,1,30,6.57,120,"1080 x 2400",4,64,32,0,0
+995,"Vivo Y21 (2020)","Vivo",9990,65,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","1.8",4,64,5000,0,0,6.5,0,"720 x 1544",2,13,13,1,256
+1000,"Xiaomi Redmi 10 5G","Xiaomi",14990,74,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",1,1,1,"Dimensity","8","2.2",4,64,5000,1,18,6.58,90,"1080 x 2408",2,50,5,0,0
+1001,"Vivo U3 (6GB RAM + 64GB)","Vivo",11990,74,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","2",6,64,5000,1,18,6.53,0,"1080 x 2340",3,16,16,1,256
+1002,"OPPO A16e (4GB RAM + 64GB)","OPPO",12990,68,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,64,4230,0,0,6.52,0,"720 x 1600",1,13,5,1,1024
+1003,"Xiaomi Redmi Note 9","Xiaomi",11999,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Helio","8","2",4,64,5020,1,23,6.53,0,"1080 x 2340",4,48,13,1,512
+1006,"Vivo Y12 (3GB RAM + 64GB)","Vivo",11000,68,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",3,64,5000,0,0,6.35,0,"720 x 1544",3,13,8,1,256
+1007,"Vivo Y15","Vivo",12500,71,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",4,64,5000,0,0,6.35,0,"720 x 1544",3,13,16,1,256
+1008,"Samsung Galaxy S10 5G","Samsung",78990,87,"Android","Single Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Exynos","8","2.7",8,256,4500,1,25,6.7,0,"1440 x 3040",3,16,10,1,512
+1009,"Vivo Y95","Vivo",15000,65,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Snapdragon","8","1.95",4,64,4030,0,0,6.22,0,"1520 x 720",2,13,20,1,256
+1010,"Xiaomi Mi A2","Xiaomi",11209,66,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, IR Blaster",0,0,1,"Qualcomm","8","2.2",4,64,3010,1,0,5.99,0,"1080 x 2160",2,20,20,0,0
+1013,"Micromax Bharat 2 Plus","Micromax",3599,39,"Android","Dual Sim, 3G, 4G, Wi-Fi",0,0,0,"Quad","4","1.3",1,8,1600,0,0,4.0,0,"480 x 800",1,5,2,1,32
+1015,"Nubia Redmagic 8s Pro Plus","Nubia",61999,88,"Android","Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",1,1,0,"Snapdragon","8","3.36",16,256,5000,1,165,6.8,120,"1116 x 2480",3,50,16,0,0
+1016,"Ulefone Armor 21","Ulefone",16499,85,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC, IR Blaster",0,1,1,"Helio","8","2.2",8,256,9600,1,33,6.58,120,"1080 x 2408",2,64,16,1,2048
+1018,"Samsung Galaxy A14 4G (4GB RAM + 128 GB)","Samsung",14999,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Exynos","8","2",4,128,5000,1,15,6.6,0,"1080 x 2408",3,50,13,1,1024
+1019,"Lava Yuva","Lava",6499,58,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi",0,0,0,"Helio","8","2",2,32,4000,1,10,6.5,0,"1600 x 720",2,8,5,1,512
+1020,"Vivo V29e","Vivo",24990,75,"Android","Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",0,1,0,"Octa","8","",8,128,4700,1,80,6.73,120,"1080 x 2400",3,64,32,1,0
