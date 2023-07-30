@@ -1,0 +1,10 @@
+There are total 930 smartphone model details in this table. By querying this table I got some insights as:
+1. Samsung and Xiaomi are the most distributed smartphones brand 
+2. Apple and Huawei are the costliest as they have higher average price
+3. Around 64% of smartphones now support 5G.
+4. Android phones have highest average battery capacity while iOS have least average battery capacity
+5. Average price of 5G phones is more than the phones that do not support 5G. The average price difference between both is around 22801.
+6. Xiaomi offer wide range of phones which cater to different budget preference of the customers
+7. Most of the phones have Full HD resolution i.e. 1920 * 1080
+8. There is a significant price difference between nfc supported and not supported phones. But around 45% of phones have nfc support which reflects the growing importance of contactless communication and user convenience in the smartphone market.
+(This insights are based on the 930 records scraped from the smartprix website)

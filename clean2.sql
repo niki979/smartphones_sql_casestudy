@@ -60,7 +60,6 @@ when num_core='Deca' then 10
 else NULL
 end;
 
-select * from scraped;
 
 update scraped set processor_speed=
 case
@@ -85,7 +84,6 @@ select internal_memory,count(*) from scraped group by internal_memory;
 
 update scraped set internal_memory=1024 where internal_memory=1;
 
-select * from scraped;
 
 -- battery column
 
@@ -119,7 +117,6 @@ end;
 
 update scraped set resolution=substring_index(substring_index(display,'inches, ',-1),' px',1);
 
-select * from scraped;
 
 -- os 
 update scraped set os=substring_index(os,' ',1);
@@ -144,7 +141,6 @@ update scraped set primary_camera_rear=substring_index(camera,' ',1);
 
 update scraped set primary_camera_front=substring_index(substring_index(camera,'& ',-1),' ',1);
 
-select * from scraped;
 
 -- card 
 alter table scraped add column extended_memory_available boolean,add column extended_memory int;

@@ -9,15 +9,12 @@ ADD COLUMN id INT AUTO_INCREMENT PRIMARY KEY;
 
 -- drop the first column
 alter table scraped drop column MyUnknownColumn;
-select * from scraped;
 
 -- remove symbol from price column
 update scraped set price=replace(price,'?','');
-select * from scraped;
 
 -- remove , from price column
 update scraped set price=replace(price,',','');
-select * from scraped;
 
 -- change datatype of price to int 
 alter table scraped modify column price int;
@@ -31,27 +28,21 @@ delete from scraped where name = '' or price = '' or score = '' or sim = '' or p
 
 -- remove symbol from processor column
 update scraped set processor=replace(processor,'?',' ');
-select * from scraped;
 
 -- remove symbol from ram column
 update scraped set ram=replace(ram,'?',' ');
-select * from scraped;
 
 -- remove symbol from battery column
 update scraped set battery=replace(battery,'?',' ');
-select * from scraped;
 
 -- remove symbol from display column
 update scraped set display=replace(display,'?',' ');
-select * from scraped;
 
 -- remove symbol from camera column
 update scraped set camera=replace(camera,'?',' ');
-select * from scraped;
 
 -- remove symbol from card column
 update scraped set card=replace(card,'?',' ');
-select * from scraped;
 
 -- find incorrect data from processor column
 
@@ -93,7 +84,6 @@ create temporary table temp as select id,camera from scraped where camera not li
 delete from scraped where id in (select id from temp);
 drop temporary table temp;
 
-select * from scraped;
 -- values in card
 select card,count(*) from scraped group by card;
 
@@ -116,7 +106,6 @@ select os,count(*) from scraped group by os;
 
 delete from scraped where os='Bluetooth';
 
-select * from scraped;
 
 
 
